@@ -31,7 +31,7 @@ app.get('/search', (req, res) => {
 
 app.get('/rsearch', (req, res) => {
   console.log('rsearch reached');
-  res.sendFile(path.join(__dirname + "/public/searchwithlogin.html"));
+  res.sendFile(path.join(__dirname + "/public/loginpage.html"));
 })
 
 app.get('/rsearch/:reference', (req, res) => {
