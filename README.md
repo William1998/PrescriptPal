@@ -1,1 +1,1 @@
-# Unihack2018
+# PrescriptPal
