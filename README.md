@@ -3,7 +3,7 @@
 
 
 
-## Frameworks/Stacks:
+## Frameworks/Stacks:s
 * HTML
 * CSS
 * open cv
