@@ -1021,7 +1021,7 @@ input, select, textarea {
 					}
 
 						.row.gtr-uniform > * {
-							padding-top: 1.5em;
+	padding-top: 1.5em;
 						}
 
 				.row.gtr-150 {
@@ -2654,6 +2654,7 @@ input, select, textarea {
 		list-style: none;
 		margin-left: -1em;
 		padding-left: 0;
+		justify-content: center;
 	}
 
 		ul.actions li {
@@ -2707,7 +2708,7 @@ input, select, textarea {
 			}
 
 				ul.actions.fit li > * {
-					width: 100%;
+	width: 103%;
 				}
 
 			ul.actions.fit.stacked {
@@ -3890,11 +3891,12 @@ input, select, textarea {
 			}
 
 		}
-div.row-gtr-uniform
-{
-    max-width: 80%;
-	display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: left;
+.row {
+	display: flex;
+	max-width: 80%;
+	flex-wrap: wrap;
+	margin-left: auto;
+	margin-right: auto;
+	box-sizing: border-box;
+	align-items: stretch;
 }
