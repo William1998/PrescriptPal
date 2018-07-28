@@ -10,6 +10,10 @@ var url = 'mongodb+srv://admin:1234@cluster0-mr1r8.mongodb.net/PrescriptPal?retr
 //To enable __dirname
 var path = require('path');
 
+// var ObjectId = require('mongodb').ObjectId;
+// var id = req.params.gonderi_id;
+// var o_id = new ObjectId(id);
+
 var server = app.listen(8080, function(){
   console.log('listening to requests on 8080');
 })
@@ -40,7 +44,7 @@ app.get('/rsearch/:reference', (req, res) => {
   MongoClient.connect(url, function(err, db){
     if (err) throw err;
     var dbo = db.db('PrescriptPal');
-    var query = {reference: myparam};
+    var query = {reference: my_param};
     dbo.collection('Prescription').find(query).toArray(function(err, result){
       if (err) throw err;
       console.log(JSON.stringify(result));
