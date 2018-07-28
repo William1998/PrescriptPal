@@ -1,0 +1,1347 @@
+<!DOCTYPE html>
+              <!-- build number 207 -->
+              <html lang="en-AU">
+
+                
+      <head>
+            <title>Diprosone | healthdirect</title>
+            <meta name="apple-itunes-app" content="app-id=1021494621">
+            <meta name="description" content="On this page about Diprosone you will find information relating to side effects, age restrictions, food interactions, whether the medicine is available at a government subsidised price on the pharmaceutical benefits scheme (PBS) as well as other useful information.">
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta name="referrer" content="always" />
+            <meta name="DC.Format" schema="DCterms:IMT" content="text/html" /><meta name="DC.Type" content="text/html">
+            <meta name="DC.Title" xml:lang="EN" content="Diprosone" />
+            <meta name="DC.Creator" content="Healthdirect Australia">
+            <meta name="DC.Subject" xml:lang="EN" content="Medicines, Medications, Drugs, Drug therapy">
+            <meta name="DC.Publisher" content="Healthdirect Australia">
+            
+            <meta name="DC.Description" xml:lang="EN" content="On this page about Diprosone you will find information relating to side effects, age restrictions, food interactions, whether the medicine is available at a government subsidised price on the pharmaceutical benefits scheme (PBS) as well as other useful information."><meta property="og:description" content="On this page about Diprosone you will find information relating to side effects, age restrictions, food interactions, whether the medicine is available at a government subsidised price on the pharmaceutical benefits scheme (PBS) as well as other useful information.">
+            <meta name="DC.Rights" content="Healthdirect Australia">
+            <meta name="DC.Language" content="en">
+
+            <meta property="og:title" content="Diprosone" >
+            <meta property="og:type" content="article" >
+            <meta property="og:description" content="On this page about Diprosone you will find information relating to side effects, age restrictions, food interactions, whether the medicine is available at a government subsidised price on the pharmaceutical benefits scheme (PBS) as well as other useful information." >
+            <meta property="og:url" content="https://www.healthdirect.gov.au/medicines/brand/amt,10951000168106/diprosone" >
+            <meta property="og:image" content="https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png">
+
+
+
+            
+            <script type="application/ld+json">{"@context":"https://schema.org","@type":"Drug","activeIngredient":"Betamethasone Dipropionate","name":"Diprosone","url":"https://www.healthdirect.gov.au/medicines/brand/amt,10951000168106/diprosone"}</script>
+
+            <script>
+              dataLayer = [];
+            </script>
+
+            <!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-MHFB33K');</script>
+            <!-- End Google Tag Manager -->
+
+            <!--[if IE]>
+            <link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon">
+            <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+            <![endif]-->
+            <link rel="icon" href="/assets/images/favicon.png" />
+            <!-- For third-generation iPad with high-resolution Retina display: -->
+            <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/apple-touch-icon-144x144-precomposed.png">
+            <!-- For iPhone with high-resolution Retina display: -->
+            <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/images/apple-touch-icon-114x114-precomposed.png">
+            <!-- For first- and second-generation iPad: -->
+            <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/images/apple-touch-icon-72x72-precomposed.png">
+            <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+            <link rel="apple-touch-icon-precomposed" href="/assets/images/apple-touch-icon-precomposed.png">
+            <link rel="stylesheet" type="text/css" href="/assets/207/styles/main.css">
+
+            <script type="text/javascript">
+                var HDW = {mediaCdn:'https://media.healthdirect.org.au/', siteId:'hin', nhsdApi:'7de96a3a4efb4b93b19035e6ee7554ef'}
+            </script>
+            <script type="text/javascript" src="/assets/207/scripts/veyron.js"></script>
+        </head>
+
+
+    
+
+
+                <body>
+
+
+                  <!-- Google Tag Manager (noscript) -->
+                  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHFB33K"
+                                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+                  <!-- End Google Tag Manager (noscript) -->
+
+                  <universal-header class="veyron-component"></universal-header>
+                  
+<header class="hda-head">
+    <div class="hda-head_content">
+        <div class="hda-head_content-common">
+            <div class="hda-head_col-logo">
+                <a href="/" class="hda-head_col-logo-link">
+                    <img class="hda-head_col-logo-img" src="/assets/images/logo-hda.svg" alt="healthdirect australia logo">
+                </a>
+            </div>
+
+
+            <div class="hda-head_col-mob-menu mobile-only">
+                <button class="hda-head_col-mob-menu-btn" aria-haspopup="true" aria-expanded="false">
+                    <i aria-hidden="true" class="hda-head_col-mob-menu-btn-icon"></i> Menu
+                </button>
+            </div>
+            <div class="hda-head_col-tagline">
+                <h1 class="hda-head_col-tagline-line"><span class="sr-only">Healthdirect </span><span>Free Australian health advice you can count on.</span></h1>
+            </div>
+            <div class="hda-head_content-common-print">
+                <p>Medical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately</p>
+                <p>healthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.</p>
+            </div>
+        </div>
+
+        <div class="hda-head_menu-row">
+            <!-- Tablet menu -->
+            <div class="hda-head_menu-row-tablet device-only">
+                
+            <!-- Primary search block -->
+            <form id="search-form-node-mobile-mode" class="hda-head_menu-row-tablet-search">
+                <input tabindex="0" id="header-search" class="hda-head_menu-row-tablet-search-field"  type="text" autocomplete="off" name="searchterm" placeholder="Search our site"  title="Suggestion options" aria-label="Enter your search terms" aria-autocomplete="list" aria-expanded="false" aria-owns="typeahead-00H-173">
+                <ul class="dropdown-menu hda-head_menu-row-tablet-search-list"  role="listbox" position="position">
+                    <li class="primary-search-list-item" role="option">
+                        <a tabindex="-1" rel="nofollow" href="/search-results/{{url}}">{{label}}</a>
+                    </li>
+                </ul>
+                <button tabindex="0" class="hda-head_menu-row-tablet-search-submit veyron-search-lens-btn" type="button">
+                  <i aria-hidden="true" class="hda-head_menu-row-tablet-search-icon"></i>
+                </button>
+            </form>
+            <script type="text/javascript">
+                primarySearch('node-mobile-mode');
+            </script>
+        
+            </div>
+
+            <nav class="hda-head_menu-row-bar">
+                <!-- Tablet and Desktop menu -->
+
+              <ul class="hda-head_menu-row-bar-nav">
+                <li class="hda-head_menu-row-bar-nav-level-1-item">
+                  <a href="/">Home</a>
+                </li>
+                <li class="hda-head_menu-row-bar-nav-level-1-item">
+                  <button class="hda-js-has-secondary-menu" aria-haspopup="true" aria-expanded="false">Health topics A-Z <i aria-hidden="true" class="hda-head_menu-row-bar-nav-dropdown-icon"></i></button>
+                  <div class="hda-head_menu-row-bar-nav-level-2">
+                    
+
+                <ul>
+                    <li class="hda-head_menu-row-bar-nav-level-2-item tablet-up">
+                        <a href="/health-topics/conditions" class="hda-head_menu-row-bar-nav-level-2-heading">Conditions</a>
+                        <a href="/gastroenteritis">Gastroenteritis</a>
+                        <a href="/skin-conditions">Skin Conditions</a>
+                        <a href="/whooping-cough">Whooping Cough</a>
+                    </li>
+                    <li class="hda-head_menu-row-bar-nav-level-2-item tablet-up">
+                        <a href="/health-topics/symptoms" class="hda-head_menu-row-bar-nav-level-2-heading">Symptoms</a>
+                        <a href="/abdominal-pain">Abdominal Pain</a>
+                        <a href="/bites-and-stings">Bites and Stings</a>
+                        <a href="/diarrhoea">Diarrhoea</a>
+                    </li>
+                    <li class="hda-head_menu-row-bar-nav-level-2-item tablet-up">
+                        <a href="/life-stages" class="hda-head_menu-row-bar-nav-level-2-heading">Life stages</a>
+                        <a href="/babies-and-toddlers-health">Babies and toddlers</a>
+                        <a href="/kids-health">Kids</a>
+                        <a href="/seniors-health">Seniors</a>
+                    </li>
+                    <li class="hda-head_menu-row-bar-nav-level-2-item__a-z">
+                        <a href="/health-topics" class="hda-head_menu-row-bar-nav-level-2-heading">All topics</a>
+                        <a href="/health-topics/A">A</a>
+                        <a href="/health-topics/B">B</a>
+                        <a href="/health-topics/C">C</a>
+                        <a href="/health-topics/D">D</a>
+                        <a href="/health-topics/E">E</a>
+                        <a href="/health-topics/F">F</a>
+                        <a href="/health-topics/G">G</a>
+                        <a href="/health-topics/H">H</a>
+                        <a href="/health-topics/I">I</a>
+                        <a href="/health-topics/J">J</a>
+                        <a href="/health-topics/K">K</a>
+                        <a href="/health-topics/L">L</a>
+                        <a href="/health-topics/M">M</a>
+                        <a href="/health-topics/N">N</a>
+                        <a href="/health-topics/O">O</a>
+                        <a href="/health-topics/P">P</a>
+                        <a href="/health-topics/Q">Q</a>
+                        <a href="/health-topics/R">R</a>
+                        <a href="/health-topics/S">S</a>
+                        <a href="/health-topics/T">T</a>
+                        <a href="/health-topics/U">U</a>
+                        <a href="/health-topics/V">V</a>
+                        <a href="/health-topics/W">W</a>
+                        <a href="/health-topics/X">X</a>
+                        <a href="/health-topics/Y">Y</a>
+                        <a href="/health-topics/Z">Z</a>
+                    </li>
+                </ul>
+        
+                  </div>
+                </li>
+                <li class="hda-head_menu-row-bar-nav-level-1-item">
+                  <a href="/medicines">Medicines</a>
+                </li>
+                <li class="hda-head_menu-row-bar-nav-level-1-item">
+                  <a href="/symptom-checker">Symptom checker</a>
+                </li>
+                <li class="hda-head_menu-row-bar-nav-level-1-item">
+                  <a href="/australian-health-services">Service finder</a>
+                </li>
+
+                <li class="desktop-only">
+                    
+            <!-- Primary search block -->
+            <form id="search-form-node-desktop-mode" class="hda-head_menu-row-tablet-search">
+                <input tabindex="0" id="header-search" class="hda-head_menu-row-tablet-search-field"  type="text" autocomplete="off" name="searchterm" placeholder="Search our site"  title="Suggestion options" aria-label="Enter your search terms" aria-autocomplete="list" aria-expanded="false" aria-owns="typeahead-00H-173">
+                <ul class="dropdown-menu hda-head_menu-row-tablet-search-list"  role="listbox" position="position">
+                    <li class="primary-search-list-item" role="option">
+                        <a tabindex="-1" rel="nofollow" href="/search-results/{{url}}">{{label}}</a>
+                    </li>
+                </ul>
+                <button tabindex="0" class="hda-head_menu-row-tablet-search-submit veyron-search-lens-btn" type="button">
+                  <i aria-hidden="true" class="hda-head_menu-row-tablet-search-icon"></i>
+                </button>
+            </form>
+            <script type="text/javascript">
+                primarySearch('node-desktop-mode');
+            </script>
+        
+                </li>
+
+              </ul>
+            </nav>
+        </div>
+    </div>
+
+    <div class="hda-head_mobile-screen mobile-only"></div>
+
+
+    <nav class="hda-head_mobile-menu mobile-only">
+        <header>Menu <button class="hda-head_mobile-menu-btn-close">Close <i aria-hidden="true" class="hda-head_mobile-menu-btn-close-icon"></i></button></header>
+        <ul class="hda-head_mobile-menu-lvl-1">
+            <li>
+                <a href="/">Home <i aria-hidden="true" class="hda-head_mobile-menu-icon"></i></a>
+            </li>
+            <li>
+                <a href="#" data-ga-finder="Top menu,Health topics A-Z,#">Health topics A-Z <i aria-hidden="true" class="hda-head_mobile-menu-icon"></i></a>
+                <ul class="hda-head_mobile-menu-lvl-2">
+                    <li>
+                        <a href="/health-topics/conditions">Conditions <i aria-hidden="true" class="hda-head_mobile-menu-icon"></i></a>
+                    </li>
+                    <li>
+                        <a href="/health-topics/symptoms">Symptoms <i aria-hidden="true" class="hda-head_mobile-menu-icon"></i></a>
+                    </li>
+                    <li>
+                        <a href="/life-stages">Life stages <i aria-hidden="true" class="hda-head_mobile-menu-icon"></i></a>
+                    </li>
+                    <li>
+                        <a href="/health-topics">All topics <i aria-hidden="true" class="hda-head_mobile-menu-icon"></i></a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="/medicines">Medicines <i aria-hidden="true" class="hda-head_mobile-menu-icon"></i></a>
+            </li>
+            <li>
+                <a href="/symptom-checker">Symptom checker <i aria-hidden="true" class="hda-head_mobile-menu-icon"></i></a>
+            </li>
+            <li>
+                <a href="/australian-health-services">Service finder <i aria-hidden="true" class="hda-head_mobile-menu-icon"></i></a>
+            </li>
+        </ul>
+    </nav>
+
+
+
+
+    <script type="text/javascript">
+        initHeader();
+    </script>
+
+</header>
+
+                  
+      <section class="main">
+        <section class="main_content">
+          <div class="main_content-col-left">
+            
+            <div class="floating-header-offset mobile-only" id="socialsharebuttonanchor"></div>
+            <div class="main_content-col-left-tools mobile-only">
+              
+          <div class="social-section_share socialshare-node-mobile-mode blog__node-mobile-mode">
+              <div class="social-section_share-platforms">
+                
+                  <button class="social-section_share-platforms-print veyron-social-share-print-btn"><i aria-hidden="true" class="social-icon_print"></i> PRINT</button>
+                  <div class="social-section_share-platforms-group">
+                      <button class="social-section_share-platforms-group-btn" aria-haspopup="false" aria-expanded="false"><i aria-hidden="true" class="dor-icon_share"></i> SHARE</button>
+                      <div class="social-section_share-platforms-group-menu">
+                          <div class="social-section_share-platforms-group-menu-tail"></div>
+                          <a title="Share this page on Facebook" rel="nofollow" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/brand/amt,10951000168106/diprosone"><i aria-hidden="true" class="social-icon_facebook"></i><span class="sr-only">share via Facebook</span></a>
+                          <a title="Share this page on Twitter" rel="nofollow" target="_blank" href="https://twitter.com/intent/tweet?text=Brand name: Diprosone - Healthdirect&amp;url=https://www.healthdirect.gov.au/medicines/brand/amt,10951000168106/diprosone"><i aria-hidden="true" class="social-icon_twitter"></i><span class="sr-only">share via Twitter</span></a>
+                          <a title="Share this page on Google Plus" target="_blank" rel="nofollow" href="https://plus.google.com/share?url=https://www.healthdirect.gov.au/medicines/brand/amt,10951000168106/diprosone"><i aria-hidden="true" class="social-icon_google"></i><span class="sr-only">share via Google Plus</span></a>
+                          <button class="share-email-button veyron-social-share-email-btn"><i aria-hidden="true" class="social-icon_email"></i><span class="sr-only">share via Email</span></button>
+                      </div>
+                  </div>
+                  
+
+                <div class="popup-content hidden">
+                      <form name="shareForm" novalidate class="social-section_share-form">
+                          <header class="dor-modal_body-header">
+                              <h2>Share via email</h2>
+                              <div class="form-error-list dor-form_error-area hidden" tabindex="0">
+                                  <p>There is a total of <span>5</span> error<span>s</span> on this form, details are below.</p>
+                                  <ul>
+                                      <li id="txtNameErrorLabelList" class="hidden"><a href="#txtName">Please enter your name</a></li>
+                                      <li id="txtFromEmailErrorLabelList" class="hidden"><a href="#txtFromEmail">Please enter your email</a></li>
+                                      <li id="txtFromEmailErrorLabel1List" class="hidden"><a href="#txtFromEmail">Your email is invalid. Please check and try again</a></li>
+                                      <li id="txtToEmailErrorLabelList" class="hidden"><a href="#txtToEmail">Please enter recipient's email</a></li>
+                                      <li id="txtToEmailErrorLabel1List" class="hidden"><a href="#txtToEmail">Recipient's email is invalid. Please check and try again</a></li>
+                                      <li id="termsChkErrorLabelList" class="hidden"><a href="#chkTerms">Agree to Terms required</a></li>
+                                  </ul>
+                              </div>
+                              <div class="dor-form_success-area hidden">
+                                  Thank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.
+                              </div>
+                          </header>
+                          <section class="dor-modal_body-main">
+                                  <section>
+                                      <div class="dor-form_input-group">
+                                          <label id="lblName">Your name: <span class="sr-only">is required</span></label>
+                                          <p id="txtNameErrorLabel" class="dor-form_input-group-error hidden"><span class="sr-only">Error: </span>This is required</p>
+                                          <div class="dor-text-input_group">
+                                              <i aria-hidden="true" class="dor-icon_user"></i>
+                                              <input class="dor-text-input_group-txt-input" type="text" id="txtName" name="shareFromName" maxlength="50" aria-labelledby="lblName" aria-describedby="txtNameErrorLabel" aria-invalid="false" required>
+                                          </div>
+                                      </div>
+
+                                      <div class="dor-form_input-group">
+                                          <label id="lblFromEmail">Your email: <span class="sr-only">is required</span></label>
+                                          <p id="txtFromEmailErrorLabel" class="dor-form_input-group-error hidden"><span class="sr-only">Error: </span>This is required</p>
+                                          <p id="txtFromEmailErrorLabel1" class="dor-form_input-group-error hidden"><span class="sr-only">Error: </span>Not a valid value</p>
+
+                                          <div class="dor-text-input_group">
+                                              <i aria-hidden="true" class="dor-icon_envelope"></i>
+                                              <input class="dor-text-input_group-txt-input" type="email" id="txtFromEmail" name="shareFromEmail" maxlength="50" aria-labelledby="lblFromEmail" aria-describedby="txtFromEmailErrorLabel txtFromEmailErrorLabel1" aria-invalid="false" required
+                                                  data-pattern=^[a-zA-Z0-9.'!#$%&*+/=?^{|}~_-]+(\.[a-zA-Z0-9.'!#$%&*+/=?^{|}~_-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,4})>
+                                          </div>
+                                      </div>
+
+                                      <div class="dor-form_input-group">
+                                          <label id="lblToEmail">Send to: <span class="sr-only"> is required</span></label>
+                                          <p id="txtToEmailErrorLabel" class="dor-form_input-group-error hidden"><span class="sr-only">Error: </span>This is required</p>
+                                          <p id="txtToEmailErrorLabel1" class="dor-form_input-group-error hidden"><span class="sr-only">Error: </span>Not a valid value</p>
+
+                                          <div class="dor-text-input_group">
+                                              <i aria-hidden="true" class="dor-icon_envelope"></i>
+                                              <input class="dor-text-input_group-txt-input" type="email" id="txtToEmail" name="shareToEmail" aria-labelledby="lblToEmail" maxlength="50" aria-describedby="txtToEmailErrorLabel txtToEmailErrorLabel1" aria-invalid="false" required
+                                                    data-pattern=^[a-zA-Z0-9.'!#$%&*+/=?^{|}~_-]+(\.[a-zA-Z0-9.'!#$%&*+/=?^{|}~_-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,4})>
+                                          </div>
+                                      </div>
+
+                                      <div class="dor-form_input-group">
+                                          <p id="termsChkErrorLabel" class="dor-form_input-group-error hidden"><span class="sr-only" >Error: </span>This is required</p>
+                                          <label id="chkTerms" class="dor-chkrdo_group" aria-describedby="termsChkErrorLabel">
+                                              <input id="termsChk" class="checkbox-group-input" type="checkbox" name="terms" required> I have read and agree to the <a href="/terms-of-use" target="_blank">Terms of Use</a> and <a href="/privacy-policy" target="_blank">Privacy Policy</a><span class="sr-only"> is required</span>.
+                                              <i aria-hidden="true" class="dor-chkrdo_group__off"></i>
+                                              <i aria-hidden="true" class="dor-chkrdo_group__on"></i>
+                                          </label>
+                                      </div>
+                                  </section>
+                          </section>
+                          <footer class="dor-modal_body-footer">
+                              <button class="dor-modal_body-footer-action" type="submit" title="Send to a friend via email">Submit</button>
+                          </footer>
+                      </form>
+                  </div>
+              </div>
+          </div>
+
+          <script type="text/javascript">
+              initialiseSocialShare('socialshare-node-mobile-mode', "https://www.healthdirect.gov.au/medicines/brand/amt,10951000168106/diprosone");
+          </script>
+      
+            </div>
+            <main class="main_content-medicines-text">
+              <header>
+                <a id="main_content-text"><span class="sr-only">beginning of content</span></a>
+                <h1 class="main_content-title-text">Brand name: Diprosone <sup>TM</sup></h1>
+              </header>
+
+              <p>Active ingredients: <a href="/medicines/medicinal-product/aht,22098/betamethasone-dipropionate">betamethasone dipropionate</a></p>
+
+              
+                <p class="heading-label"><label id="lblPackSize"><strong>Choose your pack</strong></label></p>
+                <div class="dor-form_input-group-dropdown">
+                  <i aria-hidden="true" class="dor-form_input-group-dropdown-icon"></i>
+                  <select id="veyronProductPackDropDown" aria-labelledby="lblPackSize">
+                    
+                        <option label="Diprosone 0.05% ointment, 50 g">Diprosone 0.05% ointment, 50 g</option>
+                    
+                        <option label="Diprosone 0.05% cream, 50 g">Diprosone 0.05% cream, 50 g</option>
+                    
+                        <option label="Diprosone 0.05% ointment, 15 g">Diprosone 0.05% ointment, 15 g</option>
+                    
+                        <option label="Diprosone 0.05% cream, 15 g">Diprosone 0.05% cream, 15 g</option>
+                    
+                        <option label="Diprosone 0.05% ointment, 5 g">Diprosone 0.05% ointment, 5 g</option>
+                    
+                        <option label="Diprosone 0.05% cream, 2 g">Diprosone 0.05% cream, 2 g</option>
+                    
+                        <option label="Diprosone 0.05% cream, 5 g">Diprosone 0.05% cream, 5 g</option>
+                    
+                        <option label="Diprosone 0.05% lotion, 30 mL">Diprosone 0.05% lotion, 30 mL</option>
+                    
+                  </select>
+                </div>
+              
+
+              <section class="main_content-medicines-prod-data">
+                <div id="veyronArtgSection">
+                  
+                  
+      <div id="artg-144098" class="main_content-medicines-prod-data-pack-info ">
+        
+        
+          <!--check to see if its a normal or mulitpack-->
+          
+            <!--normal pack-->
+            <nav class="dor-index-table">
+              <ul>
+                
+                <li><a href="#whatItIsUsedFor144098">What it is used for</a></li>
+                <li><a href="#howToTake144098">How to take it</a></li>
+                <li><a href="#downloads144098">Side effects (pdf)</a></li>
+                <li><a href="#downloads144098">Taking other medicines (pdf)</a></li>
+                <li><a href="#productDescription144098">Visual appearance</a></li>
+                
+                <li><a href="#poisons144098">Do I need a prescription?</a></li>
+                <li><a href="#aboutBuying144098">Is this medicine subsidised?</a></li>
+                
+                <li><a href="#pregnancy144098">Pregnant or planning a pregnancy?</a></li>
+                <li><a href="#downloads144098">Download leaflet (pdf)</a></li>
+                <li><a href="#disclaimer">Disclaimer</a></li>
+              </ul>
+            </nav>
+          
+
+          <!--All meds-->
+          
+
+          
+            <section id="whatItIsUsedFor144098">
+              <h2>What it is used for</h2>
+              <p>INDICATIONS AS AT 22 November 1995: Diprosone is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. These include atopic eczema, infantile eczema, nummular eczema, contact dermatitis, neurodermatitis, anogenital and senile pruritus, lichen planus, intertrigo and psoriasis.</p>
+            </section>
+          
+
+          
+            <!--normal pack-->
+            
+              <section id="howToTake144098">
+                <h2>How to take it</h2>
+                <p>You should seek medical advice in relation to medicines and use only as directed by a healthcare professional.</p>
+                <ul>
+                  <li>The way to take this medicine: Topical</li>
+                  
+                    
+                      <li>Store below 25 degrees Celsius</li> 
+                      
+                      <li>Lifetime is 3 Years.</li>
+                    
+                  
+                </ul>
+                <p>Always read the label. If symptoms persist see your healthcare professional.</p>
+              </section>
+            
+
+            
+              <section id="productDescription144098">
+                <h2>Visual appearance</h2>
+                <p>A smooth uniform off-white ointment,free from foreign matter</p>
+                
+              </section>
+            
+          
+
+          <!--All meds-->
+          
+
+          
+            <section id="poisons144098">
+              <h2>Do I need a prescription?</h2>
+              
+                  
+                    <p>These medicine packs are available from a pharmacist and requires a prescription. They are Schedule 4: Prescription Only Medicine.</p>
+                    <ul>
+                      <li>15g pack</li><li>50g pack</li>
+                    </ul>
+                  
+                
+                  
+                    <p>We are unable to tell you if you need a prescription for these medicines. You can ask your pharmacist. These medicines are Not Scheduled.</p>
+                    <ul>
+                      <li>5g(E) pack</li>
+                    </ul>
+                  
+                
+            </section>
+          
+
+          <section id="aboutBuying144098">
+            <h2>Is this medicine subsidised?</h2>
+            <p>This medicine may be subsidised which may make it cheaper. To learn more about this subsidy, visit the <a target="_blank" href="http://www.pbs.gov.au/pbs/search?term=Diprosone&analyse=false&search-type=medicines">Pharmaceutical Benefits Scheme</a> (PBS) website.</p>
+          </section>
+
+          
+
+          
+            <section id="pregnancy144098">
+              <h2>Pregnant or planning a pregnancy?</h2>
+
+              
+                  
+                    
+                      <p>For the active ingredient <a href="/medicines/medicinal-product/aht,22098/betamethasone-dipropionate">betamethasone dipropionate</a></p>
+                      <p>This medicine is generally considered safe during pregnancy if taken as directed.  During pregnancy, you should discuss your medicine use with your doctor or pharmacist.</p>
+                    
+                  
+                
+            </section>
+          
+
+          
+            <section id="downloads144098" class="main_content-medicines-prod-data-pack-info-download">
+              <h2>Download leaflet</h2>
+              <p>For side effects, taking other medicines and more</p>
+              <a class="main_content-medicines-prod-data-pack-info-download-media" target="_blank" href="https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-CMI-07652-3">
+                <div class="main_content-medicines-prod-data-pack-info-download-media-left">
+                  <i class="dor-icon_file-pdf"></i>
+                </div>
+                <div class="main_content-medicines-prod-data-pack-info-download-media-right">
+                  <p>Download consumer medicine information leaflet (pdf)</p>
+                </div>
+              </a>
+            </section>
+          
+          <!-- -->
+        
+      </div>
+    
+      <div id="artg-18818" class="main_content-medicines-prod-data-pack-info hidden">
+        
+        
+          <!--check to see if its a normal or mulitpack-->
+          
+            <!--normal pack-->
+            <nav class="dor-index-table">
+              <ul>
+                
+                <li><a href="#whatItIsUsedFor18818">What it is used for</a></li>
+                <li><a href="#howToTake18818">How to take it</a></li>
+                <li><a href="#downloads18818">Side effects (pdf)</a></li>
+                <li><a href="#downloads18818">Taking other medicines (pdf)</a></li>
+                <li><a href="#productDescription18818">Visual appearance</a></li>
+                
+                <li><a href="#poisons18818">Do I need a prescription?</a></li>
+                <li><a href="#aboutBuying18818">Is this medicine subsidised?</a></li>
+                
+                <li><a href="#pregnancy18818">Pregnant or planning a pregnancy?</a></li>
+                <li><a href="#downloads18818">Download leaflet (pdf)</a></li>
+                <li><a href="#disclaimer">Disclaimer</a></li>
+              </ul>
+            </nav>
+          
+
+          <!--All meds-->
+          
+
+          
+            <section id="whatItIsUsedFor18818">
+              <h2>What it is used for</h2>
+              <p>INDICATIONS AS AT 22 November 1995: Diprosone is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. These include atopic eczema, infantile eczema, nummular eczema, contact dermatitis, neurodermatitis, anogenital and senile pruritus, lichen planus, intertrigo and psoriasis.</p>
+            </section>
+          
+
+          
+            <!--normal pack-->
+            
+              <section id="howToTake18818">
+                <h2>How to take it</h2>
+                <p>You should seek medical advice in relation to medicines and use only as directed by a healthcare professional.</p>
+                <ul>
+                  <li>The way to take this medicine: Topical</li>
+                  
+                    
+                      <li>Store below 25 degrees Celsius</li> 
+                      
+                      <li>Lifetime is 2 Years.</li>
+                    
+                  
+                </ul>
+                <p>Always read the label. If symptoms persist see your healthcare professional.</p>
+              </section>
+            
+
+            
+              <section id="productDescription18818">
+                <h2>Visual appearance</h2>
+                <p>A smooth, uniform white cream, free from lumps and  foreign matter</p>
+                
+              </section>
+            
+          
+
+          <!--All meds-->
+          
+
+          
+            <section id="poisons18818">
+              <h2>Do I need a prescription?</h2>
+              
+                  
+                    <p>These medicine packs are available from a pharmacist and requires a prescription. They are Schedule 4: Prescription Only Medicine.</p>
+                    <ul>
+                      <li>15g pack</li><li>2g(sample) pack</li><li>50g pack</li>
+                    </ul>
+                  
+                
+                  
+                    <p>We are unable to tell you if you need a prescription for these medicines. You can ask your pharmacist. These medicines are Not Scheduled.</p>
+                    <ul>
+                      <li>5g(E) pack</li>
+                    </ul>
+                  
+                
+            </section>
+          
+
+          <section id="aboutBuying18818">
+            <h2>Is this medicine subsidised?</h2>
+            <p>This medicine may be subsidised which may make it cheaper. To learn more about this subsidy, visit the <a target="_blank" href="http://www.pbs.gov.au/pbs/search?term=Diprosone&analyse=false&search-type=medicines">Pharmaceutical Benefits Scheme</a> (PBS) website.</p>
+          </section>
+
+          
+
+          
+            <section id="pregnancy18818">
+              <h2>Pregnant or planning a pregnancy?</h2>
+
+              
+                  
+                    
+                      <p>For the active ingredient <a href="/medicines/medicinal-product/aht,22098/betamethasone-dipropionate">betamethasone dipropionate</a></p>
+                      <p>This medicine is generally considered safe during pregnancy if taken as directed.  During pregnancy, you should discuss your medicine use with your doctor or pharmacist.</p>
+                    
+                  
+                
+            </section>
+          
+
+          
+            <section id="downloads18818" class="main_content-medicines-prod-data-pack-info-download">
+              <h2>Download leaflet</h2>
+              <p>For side effects, taking other medicines and more</p>
+              <a class="main_content-medicines-prod-data-pack-info-download-media" target="_blank" href="https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-CMI-07652-3">
+                <div class="main_content-medicines-prod-data-pack-info-download-media-left">
+                  <i class="dor-icon_file-pdf"></i>
+                </div>
+                <div class="main_content-medicines-prod-data-pack-info-download-media-right">
+                  <p>Download consumer medicine information leaflet (pdf)</p>
+                </div>
+              </a>
+            </section>
+          
+          <!-- -->
+        
+      </div>
+    
+      <div id="artg-18829" class="main_content-medicines-prod-data-pack-info hidden">
+        
+        
+          <!--check to see if its a normal or mulitpack-->
+          
+            <!--normal pack-->
+            <nav class="dor-index-table">
+              <ul>
+                
+                <li><a href="#whatItIsUsedFor18829">What it is used for</a></li>
+                <li><a href="#howToTake18829">How to take it</a></li>
+                <li><a href="#downloads18829">Side effects (pdf)</a></li>
+                <li><a href="#downloads18829">Taking other medicines (pdf)</a></li>
+                <li><a href="#productDescription18829">Visual appearance</a></li>
+                
+                <li><a href="#poisons18829">Do I need a prescription?</a></li>
+                <li><a href="#aboutBuying18829">Is this medicine subsidised?</a></li>
+                
+                <li><a href="#pregnancy18829">Pregnant or planning a pregnancy?</a></li>
+                <li><a href="#downloads18829">Download leaflet (pdf)</a></li>
+                <li><a href="#disclaimer">Disclaimer</a></li>
+              </ul>
+            </nav>
+          
+
+          <!--All meds-->
+          
+
+          
+            <section id="whatItIsUsedFor18829">
+              <h2>What it is used for</h2>
+              <p>INDICATIONS AS AT 22 November 1995: Diprosone is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.  These include atopic eczema, infantile eczema, nummular eczema, contact dermatitis, neurodermatitis, anogenital and senile pruritus, lichen planus, intertrigo and psoriasis. Diprosone Lotion is indicated wherever hair impedes access to the skin in the treatment of corticosteroid-responsive dermatoses particularly on the scalp, chest and underarms, etc.  It is also indicated in the treatment of seborrhoea and psoriasis of the scalp.</p>
+            </section>
+          
+
+          
+            <!--normal pack-->
+            
+              <section id="howToTake18829">
+                <h2>How to take it</h2>
+                <p>You should seek medical advice in relation to medicines and use only as directed by a healthcare professional.</p>
+                <ul>
+                  <li>The way to take this medicine: Topical</li>
+                  
+                    
+                      <li>Store below 25 degrees Celsius</li> 
+                      
+                      <li>Lifetime is 2 Years.</li>
+                    
+                  
+                </ul>
+                <p>Always read the label. If symptoms persist see your healthcare professional.</p>
+              </section>
+            
+
+            
+              <section id="productDescription18829">
+                <h2>Visual appearance</h2>
+                <p>A colourless translucent viscous lotion, basically  free of air bubbles, and free from foreign matter</p>
+                
+              </section>
+            
+          
+
+          <!--All meds-->
+          
+
+          
+            <section id="poisons18829">
+              <h2>Do I need a prescription?</h2>
+              
+                  
+                    <p>These medicine packs are available from a pharmacist and requires a prescription. They are Schedule 4: Prescription Only Medicine.</p>
+                    <ul>
+                      <li>30mL pack</li>
+                    </ul>
+                  
+                
+                  
+                    <p>We are unable to tell you if you need a prescription for these medicines. You can ask your pharmacist. These medicines are Not Scheduled.</p>
+                    <ul>
+                      <li>100mL(E) pack</li>
+                    </ul>
+                  
+                
+            </section>
+          
+
+          <section id="aboutBuying18829">
+            <h2>Is this medicine subsidised?</h2>
+            <p>This medicine may be subsidised which may make it cheaper. To learn more about this subsidy, visit the <a target="_blank" href="http://www.pbs.gov.au/pbs/search?term=Diprosone&analyse=false&search-type=medicines">Pharmaceutical Benefits Scheme</a> (PBS) website.</p>
+          </section>
+
+          
+
+          
+            <section id="pregnancy18829">
+              <h2>Pregnant or planning a pregnancy?</h2>
+
+              
+                  
+                    
+                      <p>For the active ingredient <a href="/medicines/medicinal-product/aht,22098/betamethasone-dipropionate">betamethasone dipropionate</a></p>
+                      <p>This medicine is generally considered safe during pregnancy if taken as directed.  During pregnancy, you should discuss your medicine use with your doctor or pharmacist.</p>
+                    
+                  
+                
+            </section>
+          
+
+          
+            <section id="downloads18829" class="main_content-medicines-prod-data-pack-info-download">
+              <h2>Download leaflet</h2>
+              <p>For side effects, taking other medicines and more</p>
+              <a class="main_content-medicines-prod-data-pack-info-download-media" target="_blank" href="https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-CMI-07652-3">
+                <div class="main_content-medicines-prod-data-pack-info-download-media-left">
+                  <i class="dor-icon_file-pdf"></i>
+                </div>
+                <div class="main_content-medicines-prod-data-pack-info-download-media-right">
+                  <p>Download consumer medicine information leaflet (pdf)</p>
+                </div>
+              </a>
+            </section>
+          
+          <!-- -->
+        
+      </div>
+    
+                </div>
+              </section>
+
+              <footer class="main_content-medicines-text-footer">
+                <section id="disclaimer">
+                  <h2>Disclaimer</h2>
+                  <p class="cines-btn-section-source">The information about this medicine comes from <a href="/trusted-sources" target="_blank">trusted sources</a>.</p>
+                  <ul>
+                    <li>Therapeutic Good's Administration (TGA)</li>
+                    <li>Pharmaceutical Benefits Scheme (PBS)</li>
+                    <li>GuildLink</li>
+                    <li>DrugBank</li>
+                  </ul>
+
+                  <p>healthdirect medicines information is not intended for use in an emergency. If you are suffering an acute illness, overdose, or emergency condition, call triple zero (000) and ask for an ambulance.</p>
+                  <p>Reasonable care has been taken to provide accurate information at the time of creation. This information is not intended to substitute medical advice, diagnosis or treatment and should not be exclusively relied on to manage or diagnose a medical condition. Please refer to our <a href="/terms-of-use" target="_blank">terms and conditions</a>.</p>
+                </section>
+
+                <section>
+                  <h2>See also</h2>
+                  <ul>
+                    <li>Other medicines containing the same active ingredients: <a href="/medicines/medicinal-product/aht,22098/betamethasone-dipropionate">betamethasone dipropionate</a>
+                    </li>
+                    <li>Can I take Diprosone in sport? Find out on the <a href="http://www.globaldro.com/AU/search">ASADA website</a></li>
+                    <li><a href="/generic-medicines-vs-brand-name-medicines">Generic medicines vs. brand-name medicines</a></li>
+                  </ul>
+                </section>
+              </footer>
+              <a class="dor-link_back-to-top veyron-scroll-top" href="#main_content-text">Back to top</a>
+              <a href="#main_content-text" class="dor-link_back-to-top__floating veyron-scroll-top"><i class="dor-icon_caret-up"></i><span class="sr-only">back to top</span></a>
+            </main>
+
+            
+          <section class="main_content-search">
+            <header>
+              <h2>Need more information?</h2>
+              <p>These trusted information partners have more on this topic.</p>
+            </header>
+
+              <div class="main_content-general-text">
+                  <div>
+                      <div class="main_content-search-results-partners">
+                        <nav class="dor-tabs veyron-search-tabs" role="tablist">
+                          <label class="dor-tabs_item" role="tab" aria-controls="panel1" aria-selected="true">
+                            <input type="radio" checked name="tab">
+                            <div class="dor-tabs_item-btn veyron-search-tab-btn">General search results</div>
+                          </label>
+
+                          <label class="dor-tabs_item" role="tab" aria-controls="panel2" aria-selected="false">
+                            <input type="radio" name="tab">
+                            <div class="dor-tabs_item-btn veyron-search-tab-btn">Results for medical professionals</div>
+                          </label>
+                        </nav>
+
+
+
+
+                          <section id="searchGeneralResults" data-total-records="7">
+
+                            <p>Top results</p>
+
+                              
+                  <a href="http://www.mydr.com.au/medicines/cmis/diprosone-ov" data-partner-url="partners/mydr-consumer-medicine-information" class="main_content-search-tile"
+                     target="_blank" data-guid="ECM001|b47ba370-1b70-4d83-80ca-296cd40296ef">
+                      <h4><span>Diprosone OV Cream - myDr.com.au</span></h4>
+                      <div class="main_content-search-tile-intro">
+                          <p><span>Diprosone OV Cream - Consumer Medicines Information leaflets of prescription and over-the-counter medicines</span></p>
+                      </div>
+                      <p class="main_content-search-tile-read-more"><i aria-hidden="true" class="main_content-search-tile-read-more-icon"></i> Read more on myDr – Consumer Medicine Information website</p>
+                      <img class="main_content-search-tile-logo" alt="myDr – Consumer Medicine Information" src="https://media.healthdirect.org.au/images/logos/h40/myDr_Au_logo.png">
+                  </a>
+
+
+                    
+                  <a href="http://www.mydr.com.au/skin-hair/dandruff" data-partner-url="partners/mydr" class="main_content-search-tile"
+                     target="_blank" data-guid="ECM001|9e01952e-abd8-4c70-9595-ae03c7cd4451">
+                      <h4><span>Dandruff - myDr.com.au</span></h4>
+                      <div class="main_content-search-tile-intro">
+                          <p><span><p>Dandruff is when your scalp sheds excessive amounts of larger-than-normal&nbsp;skin flakes. These flakes stick to the hair shafts, eventually falling on the collars and shoulders of clothes.</p></span></p>
+                      </div>
+                      <p class="main_content-search-tile-read-more"><i aria-hidden="true" class="main_content-search-tile-read-more-icon"></i> Read more on myDr website</p>
+                      <img class="main_content-search-tile-logo" alt="myDr" src="https://media.healthdirect.org.au/images/logos/h40/myDr_Au_logo.png">
+                  </a>
+
+
+                    
+                  <a href="http://www.mydr.com.au/medicines/cmis/enstilar-foam-spray" data-partner-url="partners/mydr-consumer-medicine-information" class="main_content-search-tile"
+                     target="_blank" data-guid="ECM001|be77eb35-8017-443f-95b8-ff398f76145e">
+                      <h4><span>Enstilar Foam spray - myDr.com.au</span></h4>
+                      <div class="main_content-search-tile-intro">
+                          <p><span>Enstilar Foam spray - Consumer Medicines Information leaflets of prescription and over-the-counter medicines</span></p>
+                      </div>
+                      <p class="main_content-search-tile-read-more"><i aria-hidden="true" class="main_content-search-tile-read-more-icon"></i> Read more on myDr – Consumer Medicine Information website</p>
+                      <img class="main_content-search-tile-logo" alt="myDr – Consumer Medicine Information" src="https://media.healthdirect.org.au/images/logos/h40/myDr_Au_logo.png">
+                  </a>
+
+
+                    
+                  <a href="http://www.mydr.com.au/medicines/cmis/calcipotriol-betamethasone-sandoz-50-500-ointment" data-partner-url="partners/mydr-consumer-medicine-information" class="main_content-search-tile"
+                     target="_blank" data-guid="ECM001|3259921a-8742-4dff-9ebf-16badded69f5">
+                      <h4><span>Calcipotriol/Betamethasone Sandoz 50/500 Ointment - myDr.com.au</span></h4>
+                      <div class="main_content-search-tile-intro">
+                          <p><span>Calcipotriol/Betamethasone Sandoz 50/500 Ointment - Consumer Medicines Information leaflets of prescription and over-the-counter medicines</span></p>
+                      </div>
+                      <p class="main_content-search-tile-read-more"><i aria-hidden="true" class="main_content-search-tile-read-more-icon"></i> Read more on myDr – Consumer Medicine Information website</p>
+                      <img class="main_content-search-tile-logo" alt="myDr – Consumer Medicine Information" src="https://media.healthdirect.org.au/images/logos/h40/myDr_Au_logo.png">
+                  </a>
+
+
+                    
+                  <a href="http://www.mydr.com.au/medicines/cmis/daivobet-50-500-ointment" data-partner-url="partners/mydr-consumer-medicine-information" class="main_content-search-tile"
+                     target="_blank" data-guid="ECM001|4ed53e68-277f-4b3f-a6c1-f7a6e48236b2">
+                      <h4><span>Daivobet 50/500 Ointment - myDr.com.au</span></h4>
+                      <div class="main_content-search-tile-intro">
+                          <p><span>Daivobet 50/500 Ointment - Consumer Medicines Information leaflets of prescription and over-the-counter medicines</span></p>
+                      </div>
+                      <p class="main_content-search-tile-read-more"><i aria-hidden="true" class="main_content-search-tile-read-more-icon"></i> Read more on myDr – Consumer Medicine Information website</p>
+                      <img class="main_content-search-tile-logo" alt="myDr – Consumer Medicine Information" src="https://media.healthdirect.org.au/images/logos/h40/myDr_Au_logo.png">
+                  </a>
+
+
+                    
+                  <a href="http://www.mydr.com.au/medicines/cmis/daivobet-50-500-gel" data-partner-url="partners/mydr-consumer-medicine-information" class="main_content-search-tile"
+                     target="_blank" data-guid="ECM001|9a91457d-e5e1-4004-a590-cea5447f1d50">
+                      <h4><span>Daivobet 50/500 Gel - myDr.com.au</span></h4>
+                      <div class="main_content-search-tile-intro">
+                          <p><span>Daivobet 50/500 Gel - Consumer Medicines Information leaflets of prescription and over-the-counter medicines</span></p>
+                      </div>
+                      <p class="main_content-search-tile-read-more"><i aria-hidden="true" class="main_content-search-tile-read-more-icon"></i> Read more on myDr – Consumer Medicine Information website</p>
+                      <img class="main_content-search-tile-logo" alt="myDr – Consumer Medicine Information" src="https://media.healthdirect.org.au/images/logos/h40/myDr_Au_logo.png">
+                  </a>
+
+
+                    
+                  <a href="https://www.myvmc.com/treatments/treatment-of-psoriasis/" data-partner-url="partners/myvmc-virtual-medical-centre" class="main_content-search-tile"
+                     target="_blank" data-guid="ECM001|e78be48a-cf10-4fef-955a-66800f7feddb">
+                      <h4><span>Treatment of Psoriasis | myVMC</span></h4>
+                      <div class="main_content-search-tile-intro">
+                          <p><span>Psoriasis is a disease which affects multiple systems within the body, predominantly the skin and the joints. Skin disease which can present in multiple different ways and degrees of severity is the hallmark of psoriasis. The severity of psoriasis is defined in terms of which body parts and how much body surface area are involved.</span></p>
+                      </div>
+                      <p class="main_content-search-tile-read-more"><i aria-hidden="true" class="main_content-search-tile-read-more-icon"></i> Read more on myVMC – Virtual Medical Centre website</p>
+                      <img class="main_content-search-tile-logo" alt="myVMC – Virtual Medical Centre" src="https://media.healthdirect.org.au/images/logos/h40/my-VMC_logo.png">
+                  </a>
+
+
+                    
+
+                              <section class="main_content-search-show-more hidden">
+                                  <button class="main_content-search-show-more-btn" title="Show more search results" rel="nofollow">Show more</button>
+                                  <i aria-hidden="true" class="main_content-search-show-more-loading"></i>
+                              </section>
+
+                          </section>
+
+
+                          <section id="searchProfessionalResults" class="hidden"  data-total-records="0">
+
+                              <p>Top results</p>
+
+                              
+
+                              <section class="main_content-search-show-more hidden">
+                                  <button class="main_content-search-show-more-btn" title="Show more search results" rel="nofollow">Show more</button>
+                                  <i aria-hidden="true" class="main_content-search-show-more-loading"></i>
+                              </section>
+
+                          </section>
+
+
+
+
+                      </div>
+                  </div>
+              </div>
+
+
+			  <div class="partner-popup-content hidden">
+          <header class="dor-modal_body__v2-header">
+
+          </header>
+          <section class="dor-modal_body__v2-main">
+					  <p>Healthdirect Australia is not responsible for the content and advertising on the external website you are now entering.</p>
+				  </section>
+				  <footer class="dor-modal_body__v2-footer">
+					  <a target="_blank" class="main-action main-action__link">OK</a>
+				  </footer>
+			  </div>
+
+              <script type="text/javascript">
+				  HDW.partnerResults = JSON.parse('{\"localContentConfig\":{\"PBB\":{\"logo\":\"PBB_logo.png\",\"url\":\"https:\/\/www.pregnancybirthbaby.org.au\/\",\"name\":\"Pregnancy, Birth & Baby\"},\"MHC\":{\"logo\":\"MHC_logo.png\",\"url\":\"https:\/\/www.mindhealthconnect.org.au\/\",\"name\":\"mindhealthconnect\"},\"HIN\":{\"logo\":\"healthdirect_logo.png\",\"url\":\"https:\/\/www.healthdirect.gov.au\/\",\"name\":\"healthdirect\"},\"HCW\":{\"logo\":\"healthdirect_logo.png\",\"url\":\"https:\/\/about.healthdirect.gov.au\/\",\"name\":\"healthdirect\"}}}')
+                  initArticleSearchResults(JSON.parse('{\"general\":\"\/api\/search\/content\/general?wt=json&f.partner.facet.limit=-1&f.partner.facet.sort=count&rows=10&start=0&channel=HIN&q=Diprosone&fq=document_channel%3A(%22HIN%22%20OR%20%22PBB%22%20OR%20%22MHC%22%20OR%20%22HCW%22)&fq=!canonical_channel%3A%22HIN%22&fq=(canonical_channel%3A%5B*%20TO%20*%5D%20OR%20content_type%3A%22hdaptn%3ApartnerContent%22)&fq=audience_en%3A(%22Consumers%22%20OR%20%22Carers%22)\",\"professional\":\"\/api\/search\/content\/keyword?wt=json&f.partner.facet.limit=-1&f.partner.facet.sort=count&rows=10&start=0&channel=HIN&q=Diprosone&fq=!partner%3A%22healthdirect%22&fq=audience_en%3A%22Health%20Professionals%22\"}'));
+              </script>
+          </section>
+        
+
+          </div>
+          
+
+
+    <aside class="main_content-col-right print-hidden">
+      <div class="tablet-up">
+        
+            <section>
+                
+          <div class="social-section_share socialshare-node-desktop-mode blog__node-desktop-mode">
+              <div class="social-section_share-platforms">
+                
+                  <button class="social-section_share-platforms-print veyron-social-share-print-btn"><i aria-hidden="true" class="social-icon_print"></i> PRINT</button>
+                  <div class="social-section_share-platforms-group">
+                      <button class="social-section_share-platforms-group-btn" aria-haspopup="false" aria-expanded="false"><i aria-hidden="true" class="dor-icon_share"></i> SHARE</button>
+                      <div class="social-section_share-platforms-group-menu">
+                          <div class="social-section_share-platforms-group-menu-tail"></div>
+                          <a title="Share this page on Facebook" rel="nofollow" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/brand/amt,10951000168106/diprosone"><i aria-hidden="true" class="social-icon_facebook"></i><span class="sr-only">share via Facebook</span></a>
+                          <a title="Share this page on Twitter" rel="nofollow" target="_blank" href="https://twitter.com/intent/tweet?text=Brand name: Diprosone - Healthdirect&amp;url=https://www.healthdirect.gov.au/medicines/brand/amt,10951000168106/diprosone"><i aria-hidden="true" class="social-icon_twitter"></i><span class="sr-only">share via Twitter</span></a>
+                          <a title="Share this page on Google Plus" target="_blank" rel="nofollow" href="https://plus.google.com/share?url=https://www.healthdirect.gov.au/medicines/brand/amt,10951000168106/diprosone"><i aria-hidden="true" class="social-icon_google"></i><span class="sr-only">share via Google Plus</span></a>
+                          <button class="share-email-button veyron-social-share-email-btn"><i aria-hidden="true" class="social-icon_email"></i><span class="sr-only">share via Email</span></button>
+                      </div>
+                  </div>
+                  
+
+                <div class="popup-content hidden">
+                      <form name="shareForm" novalidate class="social-section_share-form">
+                          <header class="dor-modal_body-header">
+                              <h2>Share via email</h2>
+                              <div class="form-error-list dor-form_error-area hidden" tabindex="0">
+                                  <p>There is a total of <span>5</span> error<span>s</span> on this form, details are below.</p>
+                                  <ul>
+                                      <li id="txtNameErrorLabelList" class="hidden"><a href="#txtName">Please enter your name</a></li>
+                                      <li id="txtFromEmailErrorLabelList" class="hidden"><a href="#txtFromEmail">Please enter your email</a></li>
+                                      <li id="txtFromEmailErrorLabel1List" class="hidden"><a href="#txtFromEmail">Your email is invalid. Please check and try again</a></li>
+                                      <li id="txtToEmailErrorLabelList" class="hidden"><a href="#txtToEmail">Please enter recipient's email</a></li>
+                                      <li id="txtToEmailErrorLabel1List" class="hidden"><a href="#txtToEmail">Recipient's email is invalid. Please check and try again</a></li>
+                                      <li id="termsChkErrorLabelList" class="hidden"><a href="#chkTerms">Agree to Terms required</a></li>
+                                  </ul>
+                              </div>
+                              <div class="dor-form_success-area hidden">
+                                  Thank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.
+                              </div>
+                          </header>
+                          <section class="dor-modal_body-main">
+                                  <section>
+                                      <div class="dor-form_input-group">
+                                          <label id="lblName">Your name: <span class="sr-only">is required</span></label>
+                                          <p id="txtNameErrorLabel" class="dor-form_input-group-error hidden"><span class="sr-only">Error: </span>This is required</p>
+                                          <div class="dor-text-input_group">
+                                              <i aria-hidden="true" class="dor-icon_user"></i>
+                                              <input class="dor-text-input_group-txt-input" type="text" id="txtName" name="shareFromName" maxlength="50" aria-labelledby="lblName" aria-describedby="txtNameErrorLabel" aria-invalid="false" required>
+                                          </div>
+                                      </div>
+
+                                      <div class="dor-form_input-group">
+                                          <label id="lblFromEmail">Your email: <span class="sr-only">is required</span></label>
+                                          <p id="txtFromEmailErrorLabel" class="dor-form_input-group-error hidden"><span class="sr-only">Error: </span>This is required</p>
+                                          <p id="txtFromEmailErrorLabel1" class="dor-form_input-group-error hidden"><span class="sr-only">Error: </span>Not a valid value</p>
+
+                                          <div class="dor-text-input_group">
+                                              <i aria-hidden="true" class="dor-icon_envelope"></i>
+                                              <input class="dor-text-input_group-txt-input" type="email" id="txtFromEmail" name="shareFromEmail" maxlength="50" aria-labelledby="lblFromEmail" aria-describedby="txtFromEmailErrorLabel txtFromEmailErrorLabel1" aria-invalid="false" required
+                                                  data-pattern=^[a-zA-Z0-9.'!#$%&*+/=?^{|}~_-]+(\.[a-zA-Z0-9.'!#$%&*+/=?^{|}~_-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,4})>
+                                          </div>
+                                      </div>
+
+                                      <div class="dor-form_input-group">
+                                          <label id="lblToEmail">Send to: <span class="sr-only"> is required</span></label>
+                                          <p id="txtToEmailErrorLabel" class="dor-form_input-group-error hidden"><span class="sr-only">Error: </span>This is required</p>
+                                          <p id="txtToEmailErrorLabel1" class="dor-form_input-group-error hidden"><span class="sr-only">Error: </span>Not a valid value</p>
+
+                                          <div class="dor-text-input_group">
+                                              <i aria-hidden="true" class="dor-icon_envelope"></i>
+                                              <input class="dor-text-input_group-txt-input" type="email" id="txtToEmail" name="shareToEmail" aria-labelledby="lblToEmail" maxlength="50" aria-describedby="txtToEmailErrorLabel txtToEmailErrorLabel1" aria-invalid="false" required
+                                                    data-pattern=^[a-zA-Z0-9.'!#$%&*+/=?^{|}~_-]+(\.[a-zA-Z0-9.'!#$%&*+/=?^{|}~_-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,4})>
+                                          </div>
+                                      </div>
+
+                                      <div class="dor-form_input-group">
+                                          <p id="termsChkErrorLabel" class="dor-form_input-group-error hidden"><span class="sr-only" >Error: </span>This is required</p>
+                                          <label id="chkTerms" class="dor-chkrdo_group" aria-describedby="termsChkErrorLabel">
+                                              <input id="termsChk" class="checkbox-group-input" type="checkbox" name="terms" required> I have read and agree to the <a href="/terms-of-use" target="_blank">Terms of Use</a> and <a href="/privacy-policy" target="_blank">Privacy Policy</a><span class="sr-only"> is required</span>.
+                                              <i aria-hidden="true" class="dor-chkrdo_group__off"></i>
+                                              <i aria-hidden="true" class="dor-chkrdo_group__on"></i>
+                                          </label>
+                                      </div>
+                                  </section>
+                          </section>
+                          <footer class="dor-modal_body-footer">
+                              <button class="dor-modal_body-footer-action" type="submit" title="Send to a friend via email">Submit</button>
+                          </footer>
+                      </form>
+                  </div>
+              </div>
+          </div>
+
+          <script type="text/javascript">
+              initialiseSocialShare('socialshare-node-desktop-mode', "https://www.healthdirect.gov.au/medicines/brand/amt,10951000168106/diprosone");
+          </script>
+      
+            </section>
+        
+
+        
+        
+
+        <section class="widget-sym" data-ng-show="symptom" data-semantic-links="semanticLinks" layout="sidebar">
+            <h2>Symptom checker</h2>
+            <p><strong>Worried about your health?</strong></p><p>Select a symptom, answer some questions, get advice.</p>
+            <a class="widget-sym-btn" href="/symptom-checker/tool?symptom=GNRC" title="Check symptoms">Start Your Symptom Check</a>
+        </section>
+
+    
+        
+
+            <section class="hsf-panel-node-sidebar-mode">
+                <form data-old-class="hsf-form" name="serviceFinderForm" novalidate="">
+
+                    
+                    <fieldset class="hsf-form_services">
+                      <legend class="sr-only">service category</legend>
+                      <h2>Find a health service</h2>
+
+                      
+            <section class="dor-form_error-area hidden veyron-hsf-panel-error-list">
+              <ul>
+                <li>Please enter a suburb or postcode of your location and select from the list.</li>
+                <li>Unable to find your location. Please enter manually below.</li>
+                <li>Location not found.</li>
+              </ul>
+            </section>
+
+        
+
+                      <div class="hsf-form_services-cols" data-old-class="widget-hsf_content-col">
+                        
+                          <label class="dor-chkrdo_group " >
+                            <input class="widget-hsf_content-col-rdo veyron-service-type-default" type="radio" name="selectedServiceType" data-service-name="General Practice" value="aht-11222" >General Practice
+                            <i aria-hidden="true" class="dor-chkrdo_group__off"></i>
+                            <i aria-hidden="true" class="dor-chkrdo_group__on"></i>
+                          </label>
+                        
+                          <label class="dor-chkrdo_group " >
+                            <input class="widget-hsf_content-col-rdo veyron-service-type-default" type="radio" name="selectedServiceType" data-service-name="Pharmacy" value="aht-12243" checked="checked">Pharmacy
+                            <i aria-hidden="true" class="dor-chkrdo_group__off"></i>
+                            <i aria-hidden="true" class="dor-chkrdo_group__on"></i>
+                          </label>
+                        
+                          <label class="dor-chkrdo_group " >
+                            <input class="widget-hsf_content-col-rdo veyron-service-type-default" type="radio" name="selectedServiceType" data-service-name="Emergency Departments" value="aht-10968" >Emergency Departments
+                            <i aria-hidden="true" class="dor-chkrdo_group__off"></i>
+                            <i aria-hidden="true" class="dor-chkrdo_group__on"></i>
+                          </label>
+                        
+                          <label class="dor-chkrdo_group " >
+                            <input class="widget-hsf_content-col-rdo veyron-service-type-default" type="radio" name="selectedServiceType" data-service-name="Hospitals" value="aht-11440" >Hospitals
+                            <i aria-hidden="true" class="dor-chkrdo_group__off"></i>
+                            <i aria-hidden="true" class="dor-chkrdo_group__on"></i>
+                          </label>
+                        
+                        <p><a href="/australian-health-services">Need more services?</a></p>
+                      </div>
+                      
+                    </fieldset>
+
+                    
+
+                    <fieldset class="hsf-form_location veyron-hsf-panel-location">
+                      <legend class="sr-only">enter a location</legend>
+                      
+                      
+                      <label>Enter a location</label>
+                      <!-- <div class="widget-hsf_content-col-start"> -->
+                        <!-- <label id="lblWidgetHsfLocation">Enter a location</label> -->
+                        <div class="hsf-form_location-input-group" data-old-class="widget-hsf_content-col-start-location">
+                          <i aria-hidden="true" class="hsf-form_location-input-group-spinner veyron-hsf-panel-spinner"></i>
+                          <i aria-hidden="true" class="hsf-form_location-input-group-icon"></i>
+                          <input class="hsf-form_location-input-group-txt veyron-hsf-panel-location-input"  placeholder="Enter postcode or town" type="search" role="combobox" aria-labelledby="lblWidgetHsfLocation" aria-haspopup="true" autocomplete="off" name="locationText" aria-expanded="false" aria-invalid="false" required="">
+                          <ul class="hsf-form_location-input-group-auto-suggest veyron-hsf-panel-location-auto-suggest-list">
+                              <li class="location-list-item veyron-hsf-panel-location-list-item" data-veyron-click="" tabindex="0" data-url="{{url}}">{{prefLabel}}</li>
+                          </ul>
+                        </div>
+                        <label class="dor-chkrdo_group">
+                          <input class="veyron-hsf-panel-use-current-location-checkbox" type="checkbox">Use current location
+                          <i aria-hidden="true" class="dor-chkrdo_group__off"></i>
+                          <i aria-hidden="true" class="dor-chkrdo_group__on"></i>
+                        </label>
+                        <button class="hsf-form_location-btn veyron-hsf-panel-search-btn"  name="search">Find a health service</button>
+                      <!-- </div> -->
+                    </fieldset>
+                </form>
+            </section>
+
+
+            <script type="text/javascript">
+                initHsfPanel('hsf-panel-node-sidebar-mode'  );
+            </script>
+
+        
+      </div>
+
+      
+    </aside>
+
+
+    
+        </section>
+      </section>
+
+      <script type="text/javascript" src="/assets/207/scripts/medicines.js"></script>
+      <script type="text/javascript" src="/assets/207/scripts/vendor/siema/siema.min.js"></script>
+
+      <script type="text/javascript">
+          initBrandPage(JSON.parse('{\"brandDetail\":{\"prefLabel\":\"Diprosone\"},\"aiDetail\":[{\"prefLabel\":\"betamethasone dipropionate\",\"frontEndUrl\":\"\/medicines\/medicinal-product\/aht,22098\/betamethasone-dipropionate\"}]}'), JSON.parse('[{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F49672011000036107\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/49672011000036107\"},\"tradeProduct\":[{\"href\":\"\/terminology-service\/trade-product\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F10951000168106\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProduct\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/10951000168106\"}],\"tradeProductUnitOfUse\":[{\"href\":\"\/terminology-service\/trade-product-unit-of-use\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F5175011000036105\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProductUnitUse\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/5175011000036105\"}],\"artg\":[{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F144098\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasArtgEntry\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianRegisterOfTherapeuticGoods\/Concept\/144098\"}],\"containeredTradeProductPack\":[{\"href\":\"\/terminology-service\/containered-trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F50646011000036100\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/amtr:isA\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/50646011000036100\"}],\"artgDetail\":{\"status\":200,\"queryTime\":4,\"count\":1,\"code\":\"BUS00001\",\"developerMessage\":[\"OK \/ Success\"],\"artgEntry\":[{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F144098\"}},\"prefLabel\":\"DIPROSONE betamethasone 0.5mg\/g (as dipropionate) ointment tube\",\"alternativeLabel\":[],\"approvalArea\":\"Drug Safety Evaluation Branch\",\"condition\":[\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\",\"Conditions applicable to all therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\"],\"consumerInformation\":[\"https:\/\/www.ebs.tga.gov.au\/ebs\/picmi\/picmirepository.nsf\/pdf?OpenAgent&id=CP-2010-CMI-07652-3\"],\"entryType\":\"Medicine Registered\",\"licenseId\":144098,\"productCategory\":\"Medicine\",\"productInformation\":[],\"startDate\":\"2007-11-12\",\"status\":\"Active\",\"products\":[{\"additionalInformation\":[],\"effectiveDate\":\"2017-11-17\",\"name\":\"DIPROSONE betamethasone 0.5 mg\/g (as dipropionate) ointment tube\",\"specificIndications\":[\"INDICATIONS AS AT 22 November 1995: Diprosone is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. These include atopic eczema, infantile eczema, nummular eczema, contact dermatitis, neurodermatitis, anogenital and senile pruritus, lichen planus, intertrigo and psoriasis.\"],\"standardIndications\":[],\"type\":\"Single Medicine Product\",\"warnings\":[],\"components\":[{\"dosageForm\":\"Ointment\",\"routeOfAdministration\":\"Topical\",\"visualIdentification\":\"A smooth uniform off-white ointment,free from foreign matter\"}],\"packs\":[{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"15g\"},{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"50g\"},{\"poisonSchedule\":\"Not scheduled. Not considered by committee\",\"size\":\"5g(E)\"}],\"ingredients\":[{\"name\":\"Betamethasone dipropionate\",\"strength\":\"0.6400 mg\/g\"}],\"containers\":[{\"conditions\":[],\"lifeTime\":\"3 Years\",\"temperature\":\"Store below 25 degrees Celsius\",\"type\":\"Tube\"}]}],\"sponsor\":{\"name\":\"Merck Sharp & Dohme (Australia) Pty Ltd\",\"address\":{\"addressLine1\":\"North Ryde Post Business Centre\",\"addressLine2\":\"Locked Bag 2234\",\"country\":\"Australia\",\"postcode\":\"1670\",\"state\":\"NSW\",\"suburb\":\"NORTH RYDE BC\"}}}]}},\"prefLabel\":\"Diprosone 0.05% ointment, 50 g\",\"fullySpecifiedName\":\"Diprosone (betamethasone (as dipropionate) 500 microgram \/ 1 g) ointment, 50 g (trade product pack)\"},{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F74312011000036103\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/74312011000036103\"},\"tradeProduct\":[{\"href\":\"\/terminology-service\/trade-product\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F10951000168106\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProduct\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/10951000168106\"}],\"tradeProductUnitOfUse\":[{\"href\":\"\/terminology-service\/trade-product-unit-of-use\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F5366011000036104\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProductUnitUse\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/5366011000036104\"}],\"artg\":[{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F18818\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasArtgEntry\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianRegisterOfTherapeuticGoods\/Concept\/18818\"}],\"containeredTradeProductPack\":[{\"href\":\"\/terminology-service\/containered-trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F74825011000036102\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/amtr:isA\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/74825011000036102\"}],\"artgDetail\":{\"status\":200,\"queryTime\":4,\"count\":1,\"code\":\"BUS00001\",\"developerMessage\":[\"OK \/ Success\"],\"artgEntry\":[{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F18818\"}},\"prefLabel\":\"DIPROSONE betamethasone 0.5mg\/g (as dipropionate) cream tube\",\"alternativeLabel\":[],\"approvalArea\":\"Drug Safety Evaluation Branch\",\"condition\":[\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 February 1992, other than condition No. 11.\",\"Except where the sponsor has been contracted by an overseas partry to manufacturer the goods and that party will be responsible for placing the goods on the market in countries other than Australia, the sponsor must have and shall retain, while the goods remain listed, evidence necessary to substantiate and support the accuracy of the indications in relation to the listed goods, and upon the request of the Head, Office of Prescription Medicines Authorisation Branch, Therapeutic Goods Administration, shall produce such evidence to this officer.\",\"The conditions applying to these goods when they are exported from Australia are given below:\",\"Conditions applicable to all therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 February 1992, other than condition No. 8 and condition No. 9.\",\"Conditions applicable to all therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\",\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Conditions Applying to Therapeutic Goods Accepted for Registration or Listing as Goods Currently Supplied at the Commencement of the Therapeutic Goods Act 1989\\\"\",\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\"],\"consumerInformation\":[\"https:\/\/www.ebs.tga.gov.au\/ebs\/picmi\/picmirepository.nsf\/pdf?OpenAgent&id=CP-2010-CMI-07652-3\"],\"entryType\":\"Medicine Registered\",\"licenseId\":18818,\"productCategory\":\"Medicine\",\"productInformation\":[],\"startDate\":\"1991-10-08\",\"status\":\"Active\",\"products\":[{\"additionalInformation\":[],\"effectiveDate\":\"2017-11-17\",\"name\":\"DIPROSONE betamethasone 0.5 mg\/g (as dipropionate) cream tube\",\"specificIndications\":[\"INDICATIONS AS AT 22 November 1995: Diprosone is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. These include atopic eczema, infantile eczema, nummular eczema, contact dermatitis, neurodermatitis, anogenital and senile pruritus, lichen planus, intertrigo and psoriasis.\"],\"standardIndications\":[],\"type\":\"Single Medicine Product\",\"warnings\":[],\"components\":[{\"dosageForm\":\"Cream\",\"routeOfAdministration\":\"Topical\",\"visualIdentification\":\"A smooth, uniform white cream, free from lumps and  foreign matter\"}],\"packs\":[{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"15g\"},{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"2g(sample)\"},{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"50g\"},{\"poisonSchedule\":\"Not scheduled. Not considered by committee\",\"size\":\"5g(E)\"}],\"ingredients\":[{\"name\":\"Betamethasone dipropionate\",\"strength\":\"0.6400 mg\/g\"}],\"containers\":[{\"conditions\":[],\"lifeTime\":\"2 Years\",\"temperature\":\"Store below 25 degrees Celsius\",\"type\":\"Tube\"}]}],\"sponsor\":{\"name\":\"Merck Sharp & Dohme (Australia) Pty Ltd\",\"address\":{\"addressLine1\":\"North Ryde Post Business Centre\",\"addressLine2\":\"Locked Bag 2234\",\"country\":\"Australia\",\"postcode\":\"1670\",\"state\":\"NSW\",\"suburb\":\"NORTH RYDE BC\"}}}]}},\"prefLabel\":\"Diprosone 0.05% cream, 50 g\",\"fullySpecifiedName\":\"Diprosone (betamethasone (as dipropionate) 500 microgram \/ 1 g) cream, 50 g (trade product pack)\"},{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F12175011000036106\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/12175011000036106\"},\"tradeProduct\":[{\"href\":\"\/terminology-service\/trade-product\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F10951000168106\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProduct\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/10951000168106\"}],\"tradeProductUnitOfUse\":[{\"href\":\"\/terminology-service\/trade-product-unit-of-use\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F5175011000036105\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProductUnitUse\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/5175011000036105\"}],\"artg\":[{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F144098\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasArtgEntry\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianRegisterOfTherapeuticGoods\/Concept\/144098\"}],\"containeredTradeProductPack\":[{\"href\":\"\/terminology-service\/containered-trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F18864011000036104\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/amtr:isA\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/18864011000036104\"}],\"artgDetail\":{\"status\":200,\"queryTime\":4,\"count\":1,\"code\":\"BUS00001\",\"developerMessage\":[\"OK \/ Success\"],\"artgEntry\":[{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F144098\"}},\"prefLabel\":\"DIPROSONE betamethasone 0.5mg\/g (as dipropionate) ointment tube\",\"alternativeLabel\":[],\"approvalArea\":\"Drug Safety Evaluation Branch\",\"condition\":[\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\",\"Conditions applicable to all therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\"],\"consumerInformation\":[\"https:\/\/www.ebs.tga.gov.au\/ebs\/picmi\/picmirepository.nsf\/pdf?OpenAgent&id=CP-2010-CMI-07652-3\"],\"entryType\":\"Medicine Registered\",\"licenseId\":144098,\"productCategory\":\"Medicine\",\"productInformation\":[],\"startDate\":\"2007-11-12\",\"status\":\"Active\",\"products\":[{\"additionalInformation\":[],\"effectiveDate\":\"2017-11-17\",\"name\":\"DIPROSONE betamethasone 0.5 mg\/g (as dipropionate) ointment tube\",\"specificIndications\":[\"INDICATIONS AS AT 22 November 1995: Diprosone is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. These include atopic eczema, infantile eczema, nummular eczema, contact dermatitis, neurodermatitis, anogenital and senile pruritus, lichen planus, intertrigo and psoriasis.\"],\"standardIndications\":[],\"type\":\"Single Medicine Product\",\"warnings\":[],\"components\":[{\"dosageForm\":\"Ointment\",\"routeOfAdministration\":\"Topical\",\"visualIdentification\":\"A smooth uniform off-white ointment,free from foreign matter\"}],\"packs\":[{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"15g\"},{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"50g\"},{\"poisonSchedule\":\"Not scheduled. Not considered by committee\",\"size\":\"5g(E)\"}],\"ingredients\":[{\"name\":\"Betamethasone dipropionate\",\"strength\":\"0.6400 mg\/g\"}],\"containers\":[{\"conditions\":[],\"lifeTime\":\"3 Years\",\"temperature\":\"Store below 25 degrees Celsius\",\"type\":\"Tube\"}]}],\"sponsor\":{\"name\":\"Merck Sharp & Dohme (Australia) Pty Ltd\",\"address\":{\"addressLine1\":\"North Ryde Post Business Centre\",\"addressLine2\":\"Locked Bag 2234\",\"country\":\"Australia\",\"postcode\":\"1670\",\"state\":\"NSW\",\"suburb\":\"NORTH RYDE BC\"}}}]}},\"prefLabel\":\"Diprosone 0.05% ointment, 15 g\",\"fullySpecifiedName\":\"Diprosone (betamethasone (as dipropionate) 500 microgram \/ 1 g) ointment, 15 g (trade product pack)\",\"pbsUrl\":\"http:\/\/www.pbs.gov.au\/medicine\/item\/1119X-10823P-10816G-10821M-10820L-10795E\",\"pbsDate\":\"2018-07-01T00:00:00.000+10:00\"},{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F12174011000036107\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/12174011000036107\"},\"tradeProduct\":[{\"href\":\"\/terminology-service\/trade-product\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F10951000168106\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProduct\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/10951000168106\"}],\"tradeProductUnitOfUse\":[{\"href\":\"\/terminology-service\/trade-product-unit-of-use\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F5366011000036104\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProductUnitUse\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/5366011000036104\"}],\"artg\":[{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F18818\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasArtgEntry\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianRegisterOfTherapeuticGoods\/Concept\/18818\"}],\"containeredTradeProductPack\":[{\"href\":\"\/terminology-service\/containered-trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F18863011000036101\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/amtr:isA\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/18863011000036101\"}],\"artgDetail\":{\"status\":200,\"queryTime\":4,\"count\":1,\"code\":\"BUS00001\",\"developerMessage\":[\"OK \/ Success\"],\"artgEntry\":[{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F18818\"}},\"prefLabel\":\"DIPROSONE betamethasone 0.5mg\/g (as dipropionate) cream tube\",\"alternativeLabel\":[],\"approvalArea\":\"Drug Safety Evaluation Branch\",\"condition\":[\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 February 1992, other than condition No. 11.\",\"Except where the sponsor has been contracted by an overseas partry to manufacturer the goods and that party will be responsible for placing the goods on the market in countries other than Australia, the sponsor must have and shall retain, while the goods remain listed, evidence necessary to substantiate and support the accuracy of the indications in relation to the listed goods, and upon the request of the Head, Office of Prescription Medicines Authorisation Branch, Therapeutic Goods Administration, shall produce such evidence to this officer.\",\"The conditions applying to these goods when they are exported from Australia are given below:\",\"Conditions applicable to all therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 February 1992, other than condition No. 8 and condition No. 9.\",\"Conditions applicable to all therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\",\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Conditions Applying to Therapeutic Goods Accepted for Registration or Listing as Goods Currently Supplied at the Commencement of the Therapeutic Goods Act 1989\\\"\",\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\"],\"consumerInformation\":[\"https:\/\/www.ebs.tga.gov.au\/ebs\/picmi\/picmirepository.nsf\/pdf?OpenAgent&id=CP-2010-CMI-07652-3\"],\"entryType\":\"Medicine Registered\",\"licenseId\":18818,\"productCategory\":\"Medicine\",\"productInformation\":[],\"startDate\":\"1991-10-08\",\"status\":\"Active\",\"products\":[{\"additionalInformation\":[],\"effectiveDate\":\"2017-11-17\",\"name\":\"DIPROSONE betamethasone 0.5 mg\/g (as dipropionate) cream tube\",\"specificIndications\":[\"INDICATIONS AS AT 22 November 1995: Diprosone is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. These include atopic eczema, infantile eczema, nummular eczema, contact dermatitis, neurodermatitis, anogenital and senile pruritus, lichen planus, intertrigo and psoriasis.\"],\"standardIndications\":[],\"type\":\"Single Medicine Product\",\"warnings\":[],\"components\":[{\"dosageForm\":\"Cream\",\"routeOfAdministration\":\"Topical\",\"visualIdentification\":\"A smooth, uniform white cream, free from lumps and  foreign matter\"}],\"packs\":[{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"15g\"},{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"2g(sample)\"},{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"50g\"},{\"poisonSchedule\":\"Not scheduled. Not considered by committee\",\"size\":\"5g(E)\"}],\"ingredients\":[{\"name\":\"Betamethasone dipropionate\",\"strength\":\"0.6400 mg\/g\"}],\"containers\":[{\"conditions\":[],\"lifeTime\":\"2 Years\",\"temperature\":\"Store below 25 degrees Celsius\",\"type\":\"Tube\"}]}],\"sponsor\":{\"name\":\"Merck Sharp & Dohme (Australia) Pty Ltd\",\"address\":{\"addressLine1\":\"North Ryde Post Business Centre\",\"addressLine2\":\"Locked Bag 2234\",\"country\":\"Australia\",\"postcode\":\"1670\",\"state\":\"NSW\",\"suburb\":\"NORTH RYDE BC\"}}}]}},\"prefLabel\":\"Diprosone 0.05% cream, 15 g\",\"fullySpecifiedName\":\"Diprosone (betamethasone (as dipropionate) 500 microgram \/ 1 g) cream, 15 g (trade product pack)\",\"pbsUrl\":\"http:\/\/www.pbs.gov.au\/medicine\/item\/1115Q-10802M-10801L-10813D-10800K-10824Q\",\"pbsDate\":\"2018-07-01T00:00:00.000+10:00\"},{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F775271000168106\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/775271000168106\"},\"tradeProduct\":[{\"href\":\"\/terminology-service\/trade-product\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F10951000168106\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProduct\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/10951000168106\"}],\"tradeProductUnitOfUse\":[{\"href\":\"\/terminology-service\/trade-product-unit-of-use\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F5175011000036105\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProductUnitUse\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/5175011000036105\"}],\"artg\":[{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F144098\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasArtgEntry\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianRegisterOfTherapeuticGoods\/Concept\/144098\"}],\"containeredTradeProductPack\":[{\"href\":\"\/terminology-service\/containered-trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F775281000168109\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/amtr:isA\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/775281000168109\"}],\"artgDetail\":{\"status\":200,\"queryTime\":4,\"count\":1,\"code\":\"BUS00001\",\"developerMessage\":[\"OK \/ Success\"],\"artgEntry\":[{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F144098\"}},\"prefLabel\":\"DIPROSONE betamethasone 0.5mg\/g (as dipropionate) ointment tube\",\"alternativeLabel\":[],\"approvalArea\":\"Drug Safety Evaluation Branch\",\"condition\":[\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\",\"Conditions applicable to all therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\"],\"consumerInformation\":[\"https:\/\/www.ebs.tga.gov.au\/ebs\/picmi\/picmirepository.nsf\/pdf?OpenAgent&id=CP-2010-CMI-07652-3\"],\"entryType\":\"Medicine Registered\",\"licenseId\":144098,\"productCategory\":\"Medicine\",\"productInformation\":[],\"startDate\":\"2007-11-12\",\"status\":\"Active\",\"products\":[{\"additionalInformation\":[],\"effectiveDate\":\"2017-11-17\",\"name\":\"DIPROSONE betamethasone 0.5 mg\/g (as dipropionate) ointment tube\",\"specificIndications\":[\"INDICATIONS AS AT 22 November 1995: Diprosone is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. These include atopic eczema, infantile eczema, nummular eczema, contact dermatitis, neurodermatitis, anogenital and senile pruritus, lichen planus, intertrigo and psoriasis.\"],\"standardIndications\":[],\"type\":\"Single Medicine Product\",\"warnings\":[],\"components\":[{\"dosageForm\":\"Ointment\",\"routeOfAdministration\":\"Topical\",\"visualIdentification\":\"A smooth uniform off-white ointment,free from foreign matter\"}],\"packs\":[{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"15g\"},{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"50g\"},{\"poisonSchedule\":\"Not scheduled. Not considered by committee\",\"size\":\"5g(E)\"}],\"ingredients\":[{\"name\":\"Betamethasone dipropionate\",\"strength\":\"0.6400 mg\/g\"}],\"containers\":[{\"conditions\":[],\"lifeTime\":\"3 Years\",\"temperature\":\"Store below 25 degrees Celsius\",\"type\":\"Tube\"}]}],\"sponsor\":{\"name\":\"Merck Sharp & Dohme (Australia) Pty Ltd\",\"address\":{\"addressLine1\":\"North Ryde Post Business Centre\",\"addressLine2\":\"Locked Bag 2234\",\"country\":\"Australia\",\"postcode\":\"1670\",\"state\":\"NSW\",\"suburb\":\"NORTH RYDE BC\"}}}]}},\"prefLabel\":\"Diprosone 0.05% ointment, 5 g\",\"fullySpecifiedName\":\"Diprosone (betamethasone (as dipropionate) 500 microgram \/ 1 g) ointment, 5 g (trade product pack)\"},{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F775351000168107\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/775351000168107\"},\"tradeProduct\":[{\"href\":\"\/terminology-service\/trade-product\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F10951000168106\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProduct\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/10951000168106\"}],\"tradeProductUnitOfUse\":[{\"href\":\"\/terminology-service\/trade-product-unit-of-use\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F5366011000036104\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProductUnitUse\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/5366011000036104\"}],\"artg\":[{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F18818\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasArtgEntry\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianRegisterOfTherapeuticGoods\/Concept\/18818\"}],\"containeredTradeProductPack\":[{\"href\":\"\/terminology-service\/containered-trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F775361000168109\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/amtr:isA\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/775361000168109\"}],\"artgDetail\":{\"status\":200,\"queryTime\":4,\"count\":1,\"code\":\"BUS00001\",\"developerMessage\":[\"OK \/ Success\"],\"artgEntry\":[{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F18818\"}},\"prefLabel\":\"DIPROSONE betamethasone 0.5mg\/g (as dipropionate) cream tube\",\"alternativeLabel\":[],\"approvalArea\":\"Drug Safety Evaluation Branch\",\"condition\":[\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 February 1992, other than condition No. 11.\",\"Except where the sponsor has been contracted by an overseas partry to manufacturer the goods and that party will be responsible for placing the goods on the market in countries other than Australia, the sponsor must have and shall retain, while the goods remain listed, evidence necessary to substantiate and support the accuracy of the indications in relation to the listed goods, and upon the request of the Head, Office of Prescription Medicines Authorisation Branch, Therapeutic Goods Administration, shall produce such evidence to this officer.\",\"The conditions applying to these goods when they are exported from Australia are given below:\",\"Conditions applicable to all therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 February 1992, other than condition No. 8 and condition No. 9.\",\"Conditions applicable to all therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\",\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Conditions Applying to Therapeutic Goods Accepted for Registration or Listing as Goods Currently Supplied at the Commencement of the Therapeutic Goods Act 1989\\\"\",\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\"],\"consumerInformation\":[\"https:\/\/www.ebs.tga.gov.au\/ebs\/picmi\/picmirepository.nsf\/pdf?OpenAgent&id=CP-2010-CMI-07652-3\"],\"entryType\":\"Medicine Registered\",\"licenseId\":18818,\"productCategory\":\"Medicine\",\"productInformation\":[],\"startDate\":\"1991-10-08\",\"status\":\"Active\",\"products\":[{\"additionalInformation\":[],\"effectiveDate\":\"2017-11-17\",\"name\":\"DIPROSONE betamethasone 0.5 mg\/g (as dipropionate) cream tube\",\"specificIndications\":[\"INDICATIONS AS AT 22 November 1995: Diprosone is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. These include atopic eczema, infantile eczema, nummular eczema, contact dermatitis, neurodermatitis, anogenital and senile pruritus, lichen planus, intertrigo and psoriasis.\"],\"standardIndications\":[],\"type\":\"Single Medicine Product\",\"warnings\":[],\"components\":[{\"dosageForm\":\"Cream\",\"routeOfAdministration\":\"Topical\",\"visualIdentification\":\"A smooth, uniform white cream, free from lumps and  foreign matter\"}],\"packs\":[{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"15g\"},{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"2g(sample)\"},{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"50g\"},{\"poisonSchedule\":\"Not scheduled. Not considered by committee\",\"size\":\"5g(E)\"}],\"ingredients\":[{\"name\":\"Betamethasone dipropionate\",\"strength\":\"0.6400 mg\/g\"}],\"containers\":[{\"conditions\":[],\"lifeTime\":\"2 Years\",\"temperature\":\"Store below 25 degrees Celsius\",\"type\":\"Tube\"}]}],\"sponsor\":{\"name\":\"Merck Sharp & Dohme (Australia) Pty Ltd\",\"address\":{\"addressLine1\":\"North Ryde Post Business Centre\",\"addressLine2\":\"Locked Bag 2234\",\"country\":\"Australia\",\"postcode\":\"1670\",\"state\":\"NSW\",\"suburb\":\"NORTH RYDE BC\"}}}]}},\"prefLabel\":\"Diprosone 0.05% cream, 2 g\",\"fullySpecifiedName\":\"Diprosone (betamethasone (as dipropionate) 500 microgram \/ 1 g) cream, 2 g (trade product pack)\"},{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F775441000168103\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/775441000168103\"},\"tradeProduct\":[{\"href\":\"\/terminology-service\/trade-product\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F10951000168106\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProduct\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/10951000168106\"}],\"tradeProductUnitOfUse\":[{\"href\":\"\/terminology-service\/trade-product-unit-of-use\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F5366011000036104\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProductUnitUse\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/5366011000036104\"}],\"artg\":[{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F18818\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasArtgEntry\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianRegisterOfTherapeuticGoods\/Concept\/18818\"}],\"containeredTradeProductPack\":[{\"href\":\"\/terminology-service\/containered-trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F775451000168101\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/amtr:isA\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/775451000168101\"}],\"artgDetail\":{\"status\":200,\"queryTime\":4,\"count\":1,\"code\":\"BUS00001\",\"developerMessage\":[\"OK \/ Success\"],\"artgEntry\":[{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F18818\"}},\"prefLabel\":\"DIPROSONE betamethasone 0.5mg\/g (as dipropionate) cream tube\",\"alternativeLabel\":[],\"approvalArea\":\"Drug Safety Evaluation Branch\",\"condition\":[\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 February 1992, other than condition No. 11.\",\"Except where the sponsor has been contracted by an overseas partry to manufacturer the goods and that party will be responsible for placing the goods on the market in countries other than Australia, the sponsor must have and shall retain, while the goods remain listed, evidence necessary to substantiate and support the accuracy of the indications in relation to the listed goods, and upon the request of the Head, Office of Prescription Medicines Authorisation Branch, Therapeutic Goods Administration, shall produce such evidence to this officer.\",\"The conditions applying to these goods when they are exported from Australia are given below:\",\"Conditions applicable to all therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 February 1992, other than condition No. 8 and condition No. 9.\",\"Conditions applicable to all therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\",\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Conditions Applying to Therapeutic Goods Accepted for Registration or Listing as Goods Currently Supplied at the Commencement of the Therapeutic Goods Act 1989\\\"\",\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\"],\"consumerInformation\":[\"https:\/\/www.ebs.tga.gov.au\/ebs\/picmi\/picmirepository.nsf\/pdf?OpenAgent&id=CP-2010-CMI-07652-3\"],\"entryType\":\"Medicine Registered\",\"licenseId\":18818,\"productCategory\":\"Medicine\",\"productInformation\":[],\"startDate\":\"1991-10-08\",\"status\":\"Active\",\"products\":[{\"additionalInformation\":[],\"effectiveDate\":\"2017-11-17\",\"name\":\"DIPROSONE betamethasone 0.5 mg\/g (as dipropionate) cream tube\",\"specificIndications\":[\"INDICATIONS AS AT 22 November 1995: Diprosone is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. These include atopic eczema, infantile eczema, nummular eczema, contact dermatitis, neurodermatitis, anogenital and senile pruritus, lichen planus, intertrigo and psoriasis.\"],\"standardIndications\":[],\"type\":\"Single Medicine Product\",\"warnings\":[],\"components\":[{\"dosageForm\":\"Cream\",\"routeOfAdministration\":\"Topical\",\"visualIdentification\":\"A smooth, uniform white cream, free from lumps and  foreign matter\"}],\"packs\":[{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"15g\"},{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"2g(sample)\"},{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"50g\"},{\"poisonSchedule\":\"Not scheduled. Not considered by committee\",\"size\":\"5g(E)\"}],\"ingredients\":[{\"name\":\"Betamethasone dipropionate\",\"strength\":\"0.6400 mg\/g\"}],\"containers\":[{\"conditions\":[],\"lifeTime\":\"2 Years\",\"temperature\":\"Store below 25 degrees Celsius\",\"type\":\"Tube\"}]}],\"sponsor\":{\"name\":\"Merck Sharp & Dohme (Australia) Pty Ltd\",\"address\":{\"addressLine1\":\"North Ryde Post Business Centre\",\"addressLine2\":\"Locked Bag 2234\",\"country\":\"Australia\",\"postcode\":\"1670\",\"state\":\"NSW\",\"suburb\":\"NORTH RYDE BC\"}}}]}},\"prefLabel\":\"Diprosone 0.05% cream, 5 g\",\"fullySpecifiedName\":\"Diprosone (betamethasone (as dipropionate) 500 microgram \/ 1 g) cream, 5 g (trade product pack)\"},{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F1054641000168100\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/1054641000168100\"},\"tradeProduct\":[{\"href\":\"\/terminology-service\/trade-product\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F10951000168106\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProduct\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/10951000168106\"}],\"tradeProductUnitOfUse\":[{\"href\":\"\/terminology-service\/trade-product-unit-of-use\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F1054631000168109\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasTradeProductUnitUse\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/1054631000168109\"}],\"artg\":[{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F18829\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/hasArtgEntry\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianRegisterOfTherapeuticGoods\/Concept\/18829\"}],\"containeredTradeProductPack\":[{\"href\":\"\/terminology-service\/containered-trade-product-pack\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianMedicinesTerminology%2FConcept%2F1054651000168103\",\"name\":\"http:\/\/schema.healthdirect.org.au\/AustralianMedicinesTerminology\/relation\/amtr:isA\",\"uri\":\"http:\/\/thesaurus.healthdirect.org.au\/AustralianMedicinesTerminology\/Concept\/1054651000168103\"}],\"artgDetail\":{\"status\":200,\"queryTime\":7,\"count\":1,\"code\":\"BUS00001\",\"developerMessage\":[\"OK \/ Success\"],\"artgEntry\":[{\"_links\":{\"self\":{\"href\":\"\/terminology-service\/artg\/http%3A%2F%2Fthesaurus.healthdirect.org.au%2FAustralianRegisterOfTherapeuticGoods%2FConcept%2F18829\"}},\"prefLabel\":\"DIPROSONE betamethasone 0.47mg\/mL (as dipropionate) lotion bottle\",\"alternativeLabel\":[],\"approvalArea\":\"Drug Safety Evaluation Branch\",\"condition\":[\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\",\"Conditions applicable to all therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 February 1992, other than condition No. 8 and condition No. 9.\",\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 February 1992, other than condition No. 11.\",\"Conditions applicable to the relevant category and class of therapeutic goods as specified in the document \\\"Conditions Applying to Therapeutic Goods Accepted for Registration or Listing as Goods Currently Supplied at the Commencement of the Therapeutic Goods Act 1989\\\"\",\"Except where the sponsor has been contracted by an overseas partry to manufacturer the goods and that party will be responsible for placing the goods on the market in countries other than Australia, the sponsor must have and shall retain, while the goods remain listed, evidence necessary to substantiate and support the accuracy of the indications in relation to the listed goods, and upon the request of the Head, Office of Prescription Medicines Authorisation Branch, Therapeutic Goods Administration, shall produce such evidence to this officer.\",\"The conditions applying to these goods when they are exported from Australia are given below:\",\"Conditions applicable to all therapeutic goods as specified in the document \\\"Standard Conditions Applying to Registered or Listed Therapeutic Goods Under Section 28 of the Therapeutic Goods Act 1989\\\" effective 1 July 1995.\"],\"consumerInformation\":[\"https:\/\/www.ebs.tga.gov.au\/ebs\/picmi\/picmirepository.nsf\/pdf?OpenAgent&id=CP-2010-CMI-07652-3\"],\"entryType\":\"Medicine Registered\",\"licenseId\":18829,\"productCategory\":\"Medicine\",\"productInformation\":[],\"startDate\":\"1991-10-08\",\"status\":\"Active\",\"products\":[{\"additionalInformation\":[],\"effectiveDate\":\"2017-11-17\",\"name\":\"DIPROSONE betamethasone 0.47 mg\/mL (as dipropionate) lotion bottle\",\"specificIndications\":[\"INDICATIONS AS AT 22 November 1995: Diprosone is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.  These include atopic eczema, infantile eczema, nummular eczema, contact dermatitis, neurodermatitis, anogenital and senile pruritus, lichen planus, intertrigo and psoriasis. Diprosone Lotion is indicated wherever hair impedes access to the skin in the treatment of corticosteroid-responsive dermatoses particularly on the scalp, chest and underarms, etc.  It is also indicated in the treatment of seborrhoea and psoriasis of the scalp.\"],\"standardIndications\":[],\"type\":\"Single Medicine Product\",\"warnings\":[],\"components\":[{\"dosageForm\":\"Lotion\",\"routeOfAdministration\":\"Topical\",\"visualIdentification\":\"A colourless translucent viscous lotion, basically  free of air bubbles, and free from foreign matter\"}],\"packs\":[{\"poisonSchedule\":\"(S4) Prescription Only Medicine\",\"size\":\"30mL\"},{\"poisonSchedule\":\"Not scheduled. Not considered by committee\",\"size\":\"100mL(E)\"}],\"ingredients\":[{\"name\":\"Betamethasone dipropionate\",\"strength\":\"0.6400 mg\/g\"}],\"containers\":[{\"conditions\":[],\"lifeTime\":\"2 Years\",\"temperature\":\"Store below 25 degrees Celsius\",\"type\":\"Bottle\"}]}],\"sponsor\":{\"name\":\"Merck Sharp & Dohme (Australia) Pty Ltd\",\"address\":{\"addressLine1\":\"North Ryde Post Business Centre\",\"addressLine2\":\"Locked Bag 2234\",\"country\":\"Australia\",\"postcode\":\"1670\",\"state\":\"NSW\",\"suburb\":\"NORTH RYDE BC\"}}}]}},\"prefLabel\":\"Diprosone 0.05% lotion, 30 mL\",\"fullySpecifiedName\":\"Diprosone (betamethasone (as dipropionate) 470 microgram \/ 1 mL) lotion, 30 mL (trade product pack)\"}]'));
+      </script>
+    
+
+
+
+
+                  <div class="veyron-sc-hsf-action-nav">
+                    <section class="content_hotline">
+                      <h1 class="sr-only">Healthdirect 24hr 7 days a week hotline</h1>
+                      <div class="content_hotline-container">
+                        <p>24 hour health advice and information you can count on</p>
+                        <p><a class="content_hotline-phone" href="tel:1800022222" data-ng-click="hotlineClicked()"><i aria-hidden="true" class="content_hotline-phone-icon"></i> 1800 022 222</a></p>
+                      </div>
+                    </section>
+                  </div>
+
+
+                  <section class="content_partners veyron-partner-strap-ui">
+                    <h1 class="sr-only">Government Accredited with over 140 information partners</h1>
+                    <img class="content_partners-hda-logo" src="https://www.healthdirect.gov.au/images/logo-hda.svg" alt="Healthdirect logo">
+                    <p>We are a government-funded service, providing quality, approved health information</p>
+                    <div>
+                      <a href="http://www.health.gov.au/" target="_blank"> <img src="https://www.healthdirect.gov.au/images/logo-gov-dep-health.png" alt="Australian Government, health department logo"></a>
+                      <a href="http://www.health.act.gov.au/" target="_blank"><img src="https://www.healthdirect.gov.au/images/logo-gov-act.png" alt="ACT Government logo"></a>
+                      <a href="http://www.health.nsw.gov.au/" target="_blank"><img src="https://www.healthdirect.gov.au/images/logo-gov-nsw-health.png" alt="New South Wales government, health department logo"></a>
+                      <a href="http://www.health.nt.gov.au/" target="_blank"> <img src="https://www.healthdirect.gov.au/images/logo-gov-nt.png" alt="Northen Territory Government logo"></a>
+                      <a href="http://www.health.sa.gov.au/" target="_blank"><img src="https://www.healthdirect.gov.au/images/logo-gov-sa.png" alt="Government of South Australia, health department logo"></a>
+                      <a href="http://www.dhhs.tas.gov.au/" target="_blank"><img src="https://www.healthdirect.gov.au/images/logo-gov-tas.png" alt="Tasmanian government logo"></a>
+                      <a href="http://ww2.health.wa.gov.au/" target="_blank"><img src="https://www.healthdirect.gov.au/images/logo-gov-wa.png" alt="Government of Western Australia, health department logo"></a>
+                    </div>
+                  </section>
+
+                  
+<footer class="hda-foot">
+  <div class="hda-foot_container">
+    <div class="grid-row">
+      <div class="hda-foot_col-about">
+        <h4>You can trust us</h4>
+        <p>healthdirect's content is developed using our <a href="/about-our-content">content governance framework</a>, which also includes quality assessments of selected information.</p>
+        <a href="https://www.healthonnet.org/HONcode/Conduct.html?HONConduct817993" target="_blank"><img class="hda-foot_col-about-hon-code-logo" src="/assets/images/honconduct_2017.gif" alt="H.O.N code - Health on the Net Foundation logo"></a>
+      </div>
+      <div class="hda-foot_col-social-app">
+        <h4>Follow us</h4>
+        <a class="hda-foot_col-social-app-follow-icon" href="https://www.facebook.com/HealthdirectAustralia/"><i aria-hidden="true" class="social-icon_facebook"></i></a>
+        <a class="hda-foot_col-social-app-follow-icon" href="https://twitter.com/healthdirectau"><i aria-hidden="true" class="social-icon_twitter"></i></a>
+        <a class="hda-foot_col-social-app-follow-icon" href="https://www.linkedin.com/company/healthdirect-australia"><i aria-hidden="true" class="social-icon_linkedin"></i></a>
+        <h4>Download our App</h4>
+        <p><a href="/health-app" class="hda-foot_col-social-app-store-btn">Find out more</a></p>
+        <p><a href="https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&amp;mt=8">
+            <img class="hda-foot_col-social-app-store-img" src="/assets/images/app-apple-store.png" alt="download from the App store"></a>
+          <a href="https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp">
+            <img class="hda-foot_col-social-app-store-img" src="/assets/images/app-google-play.png" alt="download from google play"></a>
+        </p>
+      </div>
+      <div class="hda-foot_col-quick-links">
+        <h4>Quick links</h4>
+        <ul>
+          <li><a href="/about-us" target="_blank"><i aria-hidden="true" class="list-links-icon"></i> About us</a></li>
+          <li><a href="/our-services"><i aria-hidden="true" class="list-links-icon"></i> Our services</a></li>
+          <li><a href="/contact-us"><i aria-hidden="true" class="list-links-icon"></i> Contact us</a></li>
+          <li><a href="/linking-to-us" target="_blank"><i aria-hidden="true" class="list-links-icon"></i> Linking to us</a></li>
+          <li><a href="/information-partners"><i aria-hidden="true" class="list-links-icon"></i> Information partners</a></li>
+          <li><a href="/privacy-policy"><i aria-hidden="true" class="list-links-icon"></i> Privacy</a></li>
+          <li><a href="/terms-of-use"><i aria-hidden="true" class="list-links-icon"></i> Terms of use</a></li>
+        </ul>
+      </div>
+      <div class="hda-foot_col-resources">
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="/question-builder"><i aria-hidden="true" class="list-links-icon"></i> Question builder</a></li>
+          <li><a href="/health-and-wellbeing-apps"><i aria-hidden="true" class="list-links-icon"></i> Health apps</a></li>
+          <li><a href="/bmi-calculator"><i aria-hidden="true" class="list-links-icon"></i> BMI calculator</a></li>
+          <li><a href="/health-videos"><i aria-hidden="true" class="list-links-icon"></i> Video gallery</a></li>
+          <li><a href="/blog"><i aria-hidden="true" class="list-links-icon"></i> Blog</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+                  
+    <div id="main-content-general-feedback">
+        <div class="main_content-survey veyron-main-content-survey">
+            <button class="feedback-button-popup hidden">Feedback</button>
+            <a target="_blank">Feedback</a>
+        </div>
+        <div class="popup-content hidden">
+            <header class="dor-modal_body-header">
+                <h2>Feedback</h2>
+            </header>
+            <section class="dor-modal_body-main">
+                <iframe width="100%" height="400"></iframe>
+            </section>
+
+        </div>
+    </div>
+
+
+    <script type="text/javascript">
+        initGeneralFeedback('https://healthdirect.au1.qualtrics.com/SE/?SID=SV_57qfQg5nhrCO3Nr');
+    </script>
+
+
+
+                  <div class="veyron-global-popup hidden">
+                    <div class="veyron-global-disable-screen dor-modal_screen"></div>
+                    <div class="dor-modal_body veyron-global-popup-body">
+                      <div class="veyron-global-popup-container">
+
+                      </div>
+                      <button class="dor-modal_body-exit">
+                        <i class="dor-icon_cross"></i>
+                      </button>
+                    </div>
+                  </div>
+
+
+                  <div id="veyron-throbber" class="hidden">
+
+                    <div class="dor-throbber_screen"></div>
+                    <div class="dor-throbber_body">
+                      <!-- <div class="cssload-container">
+                      	<div class="cssload-circle"></div>
+                      	<div class="cssload-circle"></div>
+                      </div> -->
+                      <div class="dor-throbber_body-container">
+                        <div class="dor-throbber_body-container-rect1"></div>
+                        <div class="dor-throbber_body-container-rect2"></div>
+                        <div class="dor-throbber_body-container-rect3"></div>
+                        <div class="dor-throbber_body-container-rect4"></div>
+                        <div class="dor-throbber_body-container-rect5"></div>
+                        <div class="dor-throbber_body-container-rect6"></div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <script type="text/javascript" src="/components/veyron/bootstrapper.js"></script>
+                </body>
+              </html>
+              
