@@ -23,8 +23,11 @@ It does this in 2 ways.
 ### Functionality
 1. This is the landing page
 
+
 ## Privacy:
-Simplicity of ePrescription
+Prescript Pal 
+
+We hope that Prescript Pal will start a movement to increase transparency in the medical profession but also other professional fields such as legal and financial.
 
 user-friendly streamlined
 * One stop web app for prescription
