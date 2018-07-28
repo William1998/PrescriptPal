@@ -3890,3 +3890,11 @@ input, select, textarea {
 			}
 
 		}
+div.row-gtr-uniform
+{
+    max-width: 80%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
