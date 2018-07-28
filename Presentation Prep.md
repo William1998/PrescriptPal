@@ -30,7 +30,7 @@ It does this in 2 ways.
 ## Privacy:
 Prescript Pal 
 
-We hope that Prescript Pal will start a movement to increase transparency in the medical profession but also other professional fields such as legal and financial.
+We hope that Prescript Pal will not only start a movement to increase transparency in the medical profession but also other professional fields such as legal and financial.
 
 user-friendly streamlined
 * One stop web app for prescription
