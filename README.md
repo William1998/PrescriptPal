@@ -7,7 +7,7 @@
 * HTML
 * CSS
 * open cv
-* git
+* github
 * html5up
 
 
