@@ -19,7 +19,7 @@ var server = app.listen(8080, function(){
 })
 
 //Provides the public folder to the client so stylesheets etc can be accessed.
-app.use(express.static(path.join(__dirname, '/public')))
+app.use(express.static(path.join(__dirname, '/public')));
 
 //Homepage
 app.get('/', (req, res) => {
@@ -41,7 +41,7 @@ app.get('/rsearch', (req, res) => {
 app.get('/rsearch/:reference', (req, res) => {
   var my_param = req.params.reference;
   console.log('search for ' + my_param);
-  res.sendFile(__dirname + '/public/eprescription.html');
+  res.sendFile(path.join(__dirname + '/public/eprescription.html'));
   MongoClient.connect(url, function(err, db){
     if (err) throw err;
     var dbo = db.db('PrescriptPal');
@@ -57,7 +57,7 @@ app.get('/rsearch/:reference', (req, res) => {
 app.get('/search/:name', (req, res) => {
   var my_param = req.params.name;
   console.log('search for ' + my_param);
-  res.sendFile(__dirname + '/public/searchresults.html');
+  res.sendFile(path.join(__dirname + '/public/searchresults.html'));
   MongoClient.connect(url, function(err, db){
     if (err) throw err;
     var dbo = db.db('PrescriptPal');
@@ -71,18 +71,3 @@ app.get('/search/:name', (req, res) => {
     })
   })
 })
-
-/*
-app.get('/search', (req, res)=> {
-  console.log('endpoint reached');
-  MongoClient.connect(url, function(err, db){
-    if (err) throw err;
-    var dbo = db.db('PrescriptPal');
-    dbo.collection("Medicines").findOne({}, function(err, result){
-      if (err) throw err;
-      console.log(result);
-      db.close();
-    });
-  });
-})
-*/
