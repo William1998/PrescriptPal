@@ -47,7 +47,7 @@ app.get('/rsearch/:reference', (req, res) => {
     if (err) throw err;
     var dbo = db.db('PrescriptPal');
     var query = {reference: my_param};
-    dbo.collection('Prescription').find(query).toArray(function(err, result){
+    dbo.collection('Prescriptions').find(query).toArray(function(err, result){
       if (err) throw err;
       console.log(JSON.stringify(result));
       db.close();
