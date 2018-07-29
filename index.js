@@ -38,6 +38,7 @@ app.get('/rsearch', (req, res) => {
   res.sendFile(path.join(__dirname + "/public/loginpage.html"));
 })
 
+//5b5cf2392e39bd3adcc00b53
 app.get('/rsearch/:reference', (req, res) => {
   var my_param = req.params.reference;
   console.log('search for ' + my_param);
