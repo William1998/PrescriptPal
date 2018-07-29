@@ -10,6 +10,10 @@ var url = 'mongodb+srv://admin:1234@cluster0-mr1r8.mongodb.net/PrescriptPal?retr
 //To enable __dirname
 var path = require('path');
 
+// var ObjectId = require('mongodb').ObjectId;
+// var id = req.params.gonderi_id;
+// var o_id = new ObjectId(id);
+
 var server = app.listen(8080, function(){
   console.log('listening to requests on 8080');
 })
@@ -37,10 +41,11 @@ app.get('/rsearch', (req, res) => {
 app.get('/rsearch/:reference', (req, res) => {
   var my_param = req.params.reference;
   console.log('search for ' + my_param);
+  res.sendFile(__dirname + '/public/eprescription.html');
   MongoClient.connect(url, function(err, db){
     if (err) throw err;
     var dbo = db.db('PrescriptPal');
-    var query = {reference: myparam};
+    var query = {reference: my_param};
     dbo.collection('Prescription').find(query).toArray(function(err, result){
       if (err) throw err;
       console.log(JSON.stringify(result));
@@ -52,6 +57,7 @@ app.get('/rsearch/:reference', (req, res) => {
 app.get('/search/:name', (req, res) => {
   var my_param = req.params.name;
   console.log('search for ' + my_param);
+  res.sendFile(__dirname + '/public/searchresults.html');
   MongoClient.connect(url, function(err, db){
     if (err) throw err;
     var dbo = db.db('PrescriptPal');
@@ -60,6 +66,7 @@ app.get('/search/:name', (req, res) => {
     dbo.collection("Medicines").find(query).toArray(function(err, result){
       if (err) throw err;
       console.log(JSON.stringify(result));
+      //res.json(result);
       db.close();
     })
   })
